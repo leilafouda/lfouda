@@ -1,36 +1,35 @@
 ---
-abstract: Ocean noise varies spatially and temporally and is driven by natural and anthropogenic processes. Increased ambient noise levels can cause signal masking and communication impairment, affecting fitness and recruitment success. However, the effects of increasing ambient noise levels on marine species, such as marine mammals that primarily rely on sound for communication, are not well understood. We investigated the effects of concurrent ambient noise levels on social whistle calls produced by bottlenose dolphins (Tursiops truncatus) in the western North Atlantic. Elevated ambient noise levels were mainly caused by ship noise. Increases in ship noise, both within and below the dolphins' call bandwidth, resulted in higher dolphin whistle frequencies and a reduction in whistle contour complexity, an acoustic feature associated with individual identification. Consequently, the noise-induced simplification of dolphin whistles may reduce the information content in these acoustic signals and decrease effective communication, parent–offspring proximity or group cohesion.
+abstract: Cetaceans are iconic predators that serve as important indicators of marine ecosystem health. The Bremer Sub-Basin, south-western Australia, supports a diverse cetacean community including the largest documented aggregation of killer whales ( _Orcinus orca_ ) in Australian waters. Knowledge of cetacean distributions is critical for managing the area’s thriving ecotourism industry, yet is largely sporadic. Here we combined aerial with opportunistic ship-borne surveys during 2015–2017 to describe the occurrence of multiple cetacean species on a regional scale. We used generalised estimating equations to model variation in killer whale relative density as a function of both static and dynamic covariates, including seabed depth, slope, and chlorophyll a concentration, while accounting for autocorrelation. Encountered cetacean groups included: killer ( _n_ = 177), sperm ( _n_ = 69), long-finned pilot ( _n_ = 29), false killer ( _n_ = 2), and straptoothed beaked ( _n_ = 1) whales, as well as bottlenose ( _n_ = 12) and common ( _n_ = 5) dolphins. Killer whale numbers peaked in areas of low temperatures and high primary productivity, likely due to seasonal upwelling of nutrient-rich waters supporting high prey biomass. The best predictive model highlighted potential killer whale ‘hotspots’ in the Henry, Hood, Pallinup and Bremer Canyons. This study demonstrates the value of abundance data from platforms of opportunity for marine planning and wildlife management in the open ocean.
 
 authors:
-- leila
-- Jessica E. Wingfield
-- Amber D. Fandel
-- Aran Garrod
-- Kristin B. Hodge
-- Aaron N. Rice
-- Helen Bailey
+- Chandra Salgado Kent
+- Phil Bouchet
+- Rebecca Wellard
+- Iain Parnum
+- leila 
+- Christine Erbe
 
-date: "2015-09-01T00:00:00Z"
-doi: "10.1098/rsbl.2018.0484"
-featured: true
+date: "2020-06-25T00:00:00Z"
+doi: "10.1071/AM19058"
+featured: false
 image:
   caption: 
   focal_point: ""
   preview_only: false
 projects: []
-publication: '*Biology Letters*(14)'
+publication: '*Australian Mammalogy*'
 publication_short: 
 publication_types:
 - "2"
-publishDate: "2018-10-24T00:00:00Z"
+publishDate: "2020-06-25T00:00:00Z"
 slides: 
 summary: 
 tags:
 - Source Themes
-title: Dolphins simplify their vocal calls in response to increased ambient noise
+title: Seasonal productivity drives aggregations of killer whales and other cetaceans over submarine canyons of the Bremer Sub-Basin, south-western Australia
 url_code: ""
 url_dataset: ""
-url_pdf: https://royalsocietypublishing.org/doi/10.1098/rsbl.2018.0484
+url_pdf: http://www.publish.csiro.au/?paper=AM19058
 url_poster: ""
 url_project: ""
 url_slides: ""
