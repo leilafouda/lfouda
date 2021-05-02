@@ -11,7 +11,7 @@ experience:
   company: Queen Mary University of London
   company_url: ''
   #company_logo: org-gc
-  location: London, England
+  location: 
   date_start: '2017-09-25'
   date_end: ''
   description: "London NERC DTP Student. Feeding Ecology of Loggerhead Sea Turtles"
@@ -19,10 +19,10 @@ experience:
   company: The University of Maryland Center for Environmental Science (UMCES), Chesapeake Biological Laboratory (CBL)
   company_url: ''
   #company_logo: org-x
-  location: Solomons Island, Maryland, USA
+  location: 
   date_start: '2017-03-01'
   date_end: '2017-08-31'
-  description: "Assisting with a passive acoustic monitoring study for marine mammals of Maryland. Examining the effect of background noise levels on dolphin acoustics. Further duties include deployment and recovery of acoustic equipment offshore."
+  description: "Assisting with a passive acoustic monitoring study for marine mammals of Maryland. Examining the effect of background noise levels on dolphin acoustics. Further duties included deployment and recovery of acoustic equipment (SM3M, C-POD, SoundTrap) offshore."
 - title: Research Assistant
   company: The Ocean Cleanup Foundation
   company_url: ''
@@ -78,7 +78,39 @@ experience:
   location: 
   date_start: '2013-04-01'
   date_end: '2013-09-01'
-  description: "I was involved in the photography collection, quality and distinctiveness scoring, data management, and matching of a Pacific white-sided dolphin (<a>Lagenorhynchus obliquidens</a>) catalogue spanning 30-years. During July to September my work also involved aiding in data collection for the development of a marine conservation toolkit. My duties involved multi-species marine mammal line transects utilising CyberTracker software for data collection on species encountered. I was involved in taking hydrophone recordings of cetacean calls. "
+  description: "I was involved in the photography collection, quality and distinctiveness scoring, data management, and matching of a Pacific white-sided dolphin (<a>Lagenorhynchus obliquidens</a>) catalogue spanning 30-years. During July to September my work also involved aiding in data collection for the development of a marine conservation toolkit. My duties involved multi-species marine mammal line transects utilising CyberTracker software for data collection on species encountered. I was involved in taking hydrophone recordings of cetacean calls."
+- title: Research Assistant
+  company: Sperm Whale Research Project, Pinniped and Cetacean Ecology – New Zealand Research Partnership – University of Canterbury
+  company_url: ''
+  #company_logo: org-x
+  location: 
+  date_start: '2010-04-01'
+  date_end: '2010-07-01'
+  description: "Boat and land based cetacean surveying focusing on sperm whales (<a>Physeter macrocephalus</a>) in the Kaikoura Canyon including: cetacean spotting, theodolite operation and individual animal tracking, directional and omni-directional hydrophone use and acoustic tracking, blow rate sampling, monitoring tourist vessel distance to cetaceans photo-identification image capture and matching."
+- title: Intern
+  company: Research Department, Pacific Whale Foundation
+  company_url: ''
+  #company_logo: org-x
+  location: 
+  date_start: '2009-08-01'
+  date_end: '2009-10-01'
+  description: "Internship working on the photo-identification of humpback whale fluke images from Eden, New South Wales. I independently conducted snorkel reef surveys to investigate the frequency members of the public made contact with the coral reef. On board eco-tour vessels I ensured accurate cetacean logs were recorded during any encounter with animals."
+- title: Intern
+  company: Marine Research Internship Program – Society for Ecological and Coastal Research, University of Victoria Whale Lab
+  company_url: ''
+  #company_logo: org-x
+  location: 
+  date_start: '2008-06-01'
+  date_end: '2008-08-01'
+  description: "As part of this program I assisted with boat based cetacean and avian field research. The cetacean research focused on gray whales (<a>Eschrichtius robustus</a>) and included - line transects, focal follows of individuals encountered during line transects, and prey sampling in areas of feeding gray whales. On board data collection and recording required focus and attention to detail in a fast-paced environment. On land my role involved data input and photo-identification of fluke and dorsal images."
+- title: Research Assistant
+  company:Sediment Ecology Research Group, University of St Andrews
+  company_url: ''
+  #company_logo: org-x
+  location: 
+  date_start: '2007-06-01'
+  date_end: '2007-08-01'
+  description: "Independently carried out experiments in the field, collecting and processing samples. Assisted senior researchers in the laboratory and field to process and analyse samples and input data."
 design:
   columns: '2'
 ---
