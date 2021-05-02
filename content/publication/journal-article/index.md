@@ -19,7 +19,7 @@ image:
   preview_only: false
 projects: []
 publication: '*Biology Letters*(14)'
-publication_short: "Biol. Lett."
+publication_short: 
 publication_types: "Journal Article"
 - "2"
 publishDate: "2018-10-24T00:00:00Z"
