@@ -13,7 +13,6 @@ authors:
 date: "2018-10-24T00:00:00Z"
 doi: "10.1098/rsbl.2018.0484"
 featured: true
-# Custom links (uncomment lines below)
 links:
 - name: Paper Link
 url: www.royalsocietypublishing.org/doi/10.1098/rsbl.2018.0484
@@ -34,7 +33,7 @@ tags:
 title: Dolphins simplify their vocal calls in response to increased ambient noise
 url_code: ""
 url_dataset: ""
-url_pdf: https://royalsocietypublishing.org/doi/10.1098/rsbl.2018.0484
+url_pdf: https://royalsocietypublishing.org/doi/pdf/10.1098/rsbl.2018.0484
 url_poster: ""
 url_project: ""
 url_slides: ""

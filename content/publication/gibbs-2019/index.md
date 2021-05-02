@@ -12,6 +12,9 @@ authors:
 date: "2019-04-09T00:00:00Z"
 doi: "10.1007/s12526-019-00952-0"
 featured: false
+links:
+- name: Paper Link
+url: www.link.springer.com/10.1007/s12526-019-00952-0
 image:
   caption: 
   focal_point: ""
@@ -29,7 +32,7 @@ tags:
 title: Cetacean sightings within the Great Pacific Garbage Patch
 url_code: ""
 url_dataset: ""
-url_pdf: http://link.springer.com/10.1007/s12526-019-00952-0
+url_pdf: hhttps://link.springer.com/content/pdf/10.1007/s12526-019-00952-0.pdf
 url_poster: ""
 url_project: ""
 url_slides: ""

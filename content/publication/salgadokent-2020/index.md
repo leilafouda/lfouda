@@ -12,6 +12,9 @@ authors:
 date: "2020-06-25T00:00:00Z"
 doi: "10.1071/AM19058"
 featured: false
+links:
+- name: Paper Link
+url: www.publish.csiro.au/?paper=AM19058
 image:
   caption: 
   focal_point: ""
@@ -29,7 +32,7 @@ tags:
 title: Seasonal productivity drives aggregations of killer whales and other cetaceans over submarine canyons of the Bremer Sub-Basin, south-western Australia
 url_code: ""
 url_dataset: ""
-url_pdf: http://www.publish.csiro.au/?paper=AM19058
+url_pdf: https://www.publish.csiro.au/am/pdf/AM19058
 url_poster: ""
 url_project: ""
 url_slides: ""

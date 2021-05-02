@@ -10,6 +10,9 @@ authors:
 date: "2015-09-09T00:00:00Z"
 doi: "10.1371/journal.pone.0136535"
 featured: false
+links:
+- name: Paper Link
+url: www.doi.org/10.1371/journal.pone.0136535
 image:
   caption: 
   focal_point: ""
@@ -27,7 +30,7 @@ tags:
 title: Vocalisations of Killer Whales (Orcinus orca) in the Bremer Canyon, Western Australia
 url_code: ""
 url_dataset: ""
-url_pdf: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0136535
+url_pdf: https://storage.googleapis.com/plos-corpus-prod/10.1371/journal.pone.0136535/1/pone.0136535.pdf?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=wombat-sa%40plos-prod.iam.gserviceaccount.com%2F20210502%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20210502T222641Z&X-Goog-Expires=3600&X-Goog-SignedHeaders=host&X-Goog-Signature=7524a4903cbb4aba5590f3aaa6a7b95927dd92c8e72cd7d70cde88860697a85fc94021b4138cad9c7bf8b888b136ce1a1c0281a81830427acc7cce0357f58b21caff8131e74b32431f40525fc5fd5b5d9d71eb051fb4517c0dc8d022136e3870dcc29623211c1bfd038493e9637bc0d6f009e506e4170982fe05cc459b373071ef79551d95ac88b5c18ba02fe38ab13c2c8a62887fd573417d6a46feec202043a86f85f651dcdda152d93144d9cb94a98c067ff62bb1581d3918e08f23cdb4ef83f4f53a1cb5cb1ce966ca66cace6a8a41d3c70c50bbe13ee8200e2bc7afb86ed257da5c90dec471c9e96a574624c0ffb51a2c77a546948c448c837d781ffa63
 url_poster: ""
 url_project: ""
 url_slides: ""

@@ -21,6 +21,9 @@ authors:
 date: "2020-10-29T00:00:00Z"
 doi: "10.1038/s41598-020-75498-4"
 featured: false
+links:
+- name: Paper Link
+url: www.nature.com/articles/s41598-020-75498-4
 image:
   caption: 
   focal_point: ""
@@ -38,7 +41,7 @@ tags:
 title: Long-term survey of sea turtles (Caretta caretta) reveals correlations between parasite infection, feeding ecology, reproductive success and population dynamics
 url_code: ""
 url_dataset: ""
-url_pdf: https://www.nature.com/articles/s41598-020-75498-4
+url_pdf: https://www.nature.com/articles/s41598-020-75498-4.pdf
 url_poster: ""
 url_project: ""
 url_slides: ""
