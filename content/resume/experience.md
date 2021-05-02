@@ -1,51 +1,29 @@
 ---
-# An instance of the Experience widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
-widget: experience
-
-# This file represents a page section.
-headless: false
-active: true
-
-# Order that this section appears on the page.
+title: "Experience"
+headless: no
+active: yes
 weight: 40
-
-title: Experience
-subtitle:
-
-# Date format for experience
-#   Refer to https://wowchemy.com/docs/customization/#date-format
+widget: experience
+subtitle: null
 date_format: Jan 2006
-
-# Experiences.
-#   Add/remove as many `experience` items below as you like.
-#   Required fields are `title`, `company`, and `date_start`.
-#   Leave `date_end` empty if it's your current employer.
-#   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
-
+- title: PhD Student
+  company: Queen Mary University of London
+  company_url: ''
+  #company_logo: org-gc
+  location: London, England
+  date_start: '2017-09-25'
+  date_end: ''
+  description: "London NERC DTP Student. Feeding Ecology of Loggerhead Sea Turtles"
+- title: Faculty Research Assistant
+  company: The University of Maryland Center for Environmental Science
+(UMCES), Chesapeake Biological Laboratory (CBL).
+  company_url: ''
+  #company_logo: org-x
+  location: Solomons Island, Maryland, USA
+  date_start: '2017-03-01'
+  date_end: '2017-08-31'
+  description: "Assisting with a passive acoustic monitoring study for marine mammals of Maryland. Examining the effect of background noise levels on dolphin acoustics. Further duties include deployment and recovery of acoustic equipment offshore."
 design:
   columns: '2'
 ---
