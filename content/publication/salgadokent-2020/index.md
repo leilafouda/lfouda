@@ -1,5 +1,5 @@
 ---
-abstract: Cetaceans are iconic predators thatserveas important indicatiors of marine ecosystem health.
+abstract: Cetaceans are iconic predators that serve as important indicators of marine ecosystem health. The Bremer Sub-Basin, south-western Australia, supports a diverse cetaceancommunity including thelargest documented aggreagation of killer whales (Orcinus orca) in Australian waters.
 
 authors:
 - Chandra Salgado Kent
