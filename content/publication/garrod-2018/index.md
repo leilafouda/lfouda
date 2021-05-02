@@ -12,9 +12,6 @@ authors:
 date: "2018-08-22T00:00:00Z"
 doi: "10.1121/1.5049802"
 featured: false
-links:
-- name: Paper Link
-url: asa.scitation.org/doi/abs/10.1121/1.5049802
 image:
   caption: 
   focal_point: ""
@@ -30,6 +27,9 @@ summary:
 tags:
 - Source Themes
 title: Validating automated click detector dolphin detection rates and investigating factors affecting performance
+links:
+- name: Paper Link
+  url: asa.scitation.org/doi/abs/10.1121/1.5049802
 url_code: ""
 url_dataset: ""
 url_pdf:
