@@ -1,52 +1,47 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+title: "Leila Fouda"
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: PhD in Marine Ecology
+    institution: Queen Mary University of London
+    year: Present
+  - course: BSc in Conservation Science
+    institution: Imperial College London
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: BSc in Marine Biology
+    institution: University of St Andrews
     year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-email: ""
-highlight_name: false
+email: ''
+highlight_name: no
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Marine Ecology
+- Animal Movement
+- Foraging Ecology
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+- name: Queen Mary University of London
+  url: https://www.qmul.ac.uk/
+role: PhD Student (London NERC DTP)
 social:
 - icon: envelope
   icon_pack: fas
   link: /#contact
 - display:
-    header: true
+    header: yes
   icon: twitter
   icon_pack: fab
   label: Follow me on Twitter
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/Leila_Lula
 - icon: graduation-cap
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com.au/citations?user=_QyiGf4AAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
-superuser: true
-title: Nelson Bighetti
+  link: https://github.com/leilafouda
+superuser: yes
+bio: My research interests include marine movement and foraging ecology stable isotopes
+  in models. matter.
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Leila Fouda
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "" "newtab" >}}resumé{{< /staticref >}}.
