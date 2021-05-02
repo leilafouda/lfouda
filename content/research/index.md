@@ -15,4 +15,4 @@ header:
   size: 0.25
 ---
 
-My work has covered a bredth of areas focused in the marine realm.
+My work has covered a breadth of areas focused in the marine realm.
