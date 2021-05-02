@@ -38,7 +38,7 @@ social:
 #   icon_pack: fab
 #   link: https://github.com/leilafouda
 #superuser: yes
-bio: I am an early career marine ecologist. My research interests lie in furthering our understanding and filling knowledge gaps on marine species and their relationship with the wider environment. I use novel technology including telemetry, genetic analysis, and stable isotopes to answer questions on; species behaviour and range, population dynamics, feeding ecology, and habitat use. 
+bio: I am an early career marine ecologist. My research interests lie in furthering our understanding and filling knowledge gaps on marine species and their relationship with the wider environment.
 ---
 
 Leila Fouda
