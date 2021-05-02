@@ -2,7 +2,7 @@
 abstract: Ocean noise varies spatially and temporally and is driven by natural and anthropogenic processes. Increased ambient noise levels can cause signal masking and communication impairment, affecting fitness and recruitment success. However, the effects of increasing ambient noise levels on marine species, such as marine mammals that primarily rely on sound for communication, are not well understood. We investigated the effects of concurrent ambient noise levels on social whistle calls produced by bottlenose dolphins (Tursiops truncatus) in the western North Atlantic. Elevated ambient noise levels were mainly caused by ship noise. Increases in ship noise, both within and below the dolphins' call bandwidth, resulted in higher dolphin whistle frequencies and a reduction in whistle contour complexity, an acoustic feature associated with individual identification. Consequently, the noise-induced simplification of dolphin whistles may reduce the information content in these acoustic signals and decrease effective communication, parent–offspring proximity or group cohesion.
 author_notes:
 authors:
-- admin
+- leila
 
 date: "2015-09-01T00:00:00Z"
 doi: "10.1098/rsbl.2018.0484"
