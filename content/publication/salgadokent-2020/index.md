@@ -14,7 +14,7 @@ doi: "10.1071/AM19058"
 featured: false
 links:
 - name: Paper Link
-url: www.publish.csiro.au/?paper=AM19058
+url: www.publish.csiro.au/am/AM19058
 image:
   caption: 
   focal_point: ""
