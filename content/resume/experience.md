@@ -64,13 +64,21 @@ experience:
   date_end: '2013-11-01'
   description: "Analysing underwater spectrograms from the Australian northwest continental shelf to identify the principal features of the soundscape. I utilised available CMST reports from noise logger deployments to further understand the soundscapes significant features and labelled monthly percentile graphs with identified features. This work went towards a much broader study looking at the temporal and geographical variability in underwater soundscapes around Australia."
 - title: Research Assistant
-  company: Behavioural Response of Australian Humpback whales to Seismic Surveys (BRAHSS). Joint Industry Partners (JIP).
+  company: Behavioural Response of Australian Humpback whales to Seismic Surveys (BRAHSS). Joint Industry Partners (JIP)
   company_url: ''
   #company_logo: org-x
   location: 
   date_start: '2013-09-01'
   date_end: '2013-10-01'
   description: "Large long-term project looking at the effect of seismic surveys on humpback whales (Megaptera novaeangliae). My role involved scanning for humpback whale pods travelling consistently south for small vessel focal follows. During seismic trials continuously scanning for marine mammals and other vessels to ensure mitigations on animal and vessel distances were met. Using degrees and reticules to communicate pod location to VADAR operator. VADAR programme set up, operations for scan surveys, data clean up and back up. Using R to calculating and plotting reticules error with swell."
+- title: Research Assistant
+  company: Oceans Initiative
+  company_url: ''
+  #company_logo: org-x
+  location: 
+  date_start: '2013-04-01'
+  date_end: '2013-09-01'
+  description: "I was involved in the photography collection, quality and distinctiveness scoring, data management, and matching of a Pacific white-sided dolphin (<a>Lagenorhynchus obliquidens</a>) catalogue spanning 30-years. During July to September my work also involved aiding in data collection for the development of a marine conservation toolkit. My duties involved multi-species marine mammal line transects utilising CyberTracker software for data collection on species encountered. I was involved in taking hydrophone recordings of cetacean calls. "
 design:
   columns: '2'
 ---
