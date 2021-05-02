@@ -12,7 +12,7 @@ comments: false  # Show comments?
 header:
   caption: ""
   image: "BC_Ocean_Boat_2013.jpeg"
-  size: 0.25
+  width: 0.25
 ---
 
 My work has covered a breadth of areas focused in the marine realm.
