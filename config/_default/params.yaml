@@ -23,7 +23,8 @@ twitter: 'Leila_Lula'
 email: lfouda@gmail.com
 address:
   city: London
-  country: England
+  region: England
+  country: United Kingdom
   country_code: UK
 contact_links:
   - icon: twitter
