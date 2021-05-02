@@ -104,7 +104,7 @@ experience:
   date_end: '2008-08-01'
   description: "As part of this program I assisted with boat based cetacean and avian field research. The cetacean research focused on gray whales (<a>Eschrichtius robustus</a>) and included - line transects, focal follows of individuals encountered during line transects, and prey sampling in areas of feeding gray whales. On board data collection and recording required focus and attention to detail in a fast-paced environment. On land my role involved data input and photo-identification of fluke and dorsal images."
 - title: Research Assistant
-  company:Sediment Ecology Research Group, University of St Andrews
+  company: Sediment Ecology Research Group, University of St. Andrews
   company_url: ''
   #company_logo: org-x
   location: 
