@@ -20,7 +20,7 @@ image:
 projects: []
 publication: '*Biology Letters*(14)'
 publication_short: 
-publication_types: Journal Article
+publication_types:
 - "2"
 publishDate: "2018-10-24T00:00:00Z"
 slides: 
