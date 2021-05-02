@@ -14,7 +14,7 @@ doi: "10.1121/1.5049802"
 featured: false
 links:
 - name: Paper Link
-url: "http://asa.scitation.org/doi/abs/10.1121/1.5049802"
+url: asa.scitation.org/doi/abs/10.1121/1.5049802
 image:
   caption: 
   focal_point: ""
