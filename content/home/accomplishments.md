@@ -24,7 +24,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
 - certificate_url: https://london-nerc-dtp.org/
-  date_end: ""
+  date_end: "Present"
   date_start: "2017-09-25"
   description: ""
   organization: London NERC DTP
