@@ -12,9 +12,6 @@ authors:
 date: "2016-12-06T00:00:00Z"
 doi: "10.1371/journal.pone.0166670"
 featured: false
-links:
-- name: Paper Link
-url: www.doi.org/10.1371/journal.pone.0166670
 image:
   caption: 
   focal_point: ""

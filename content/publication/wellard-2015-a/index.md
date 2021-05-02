@@ -10,9 +10,6 @@ authors:
 date: "2015-09-09T00:00:00Z"
 doi: "10.1371/journal.pone.0136535"
 featured: false
-links:
-- name: Paper Link
-url: www.doi.org/10.1371/journal.pone.0136535
 image:
   caption: 
   focal_point: ""

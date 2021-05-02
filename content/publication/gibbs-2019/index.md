@@ -12,9 +12,6 @@ authors:
 date: "2019-04-09T00:00:00Z"
 doi: "10.1007/s12526-019-00952-0"
 featured: false
-links:
-- name: Paper Link
-url: www.link.springer.com/10.1007/s12526-019-00952-0
 image:
   caption: 
   focal_point: ""

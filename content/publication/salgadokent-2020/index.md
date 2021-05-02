@@ -12,9 +12,6 @@ authors:
 date: "2020-06-25T00:00:00Z"
 doi: "10.1071/AM19058"
 featured: false
-links:
-- name: Paper Link
-url: www.publish.csiro.au/am/AM19058
 image:
   caption: 
   focal_point: ""

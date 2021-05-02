@@ -27,9 +27,6 @@ summary:
 tags:
 - Source Themes
 title: Validating automated click detector dolphin detection rates and investigating factors affecting performance
-links:
-- name: Paper Link
-  url: asa.scitation.org/doi/abs/10.1121/1.5049802
 url_code: ""
 url_dataset: ""
 url_pdf:
