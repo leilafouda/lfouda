@@ -34,12 +34,11 @@ social:
 - icon: graduation-cap
   icon_pack: fas
   link: https://scholar.google.com.au/citations?user=_QyiGf4AAAAJ&hl=en
-- icon: github
-  icon_pack: fab
-  link: https://github.com/leilafouda
-superuser: yes
-bio: My research interests include marine movement and foraging ecology stable isotopes
-  in models. matter.
+# - icon: github
+#   icon_pack: fab
+#   link: https://github.com/leilafouda
+#superuser: yes
+bio: I am an early career marine ecologist. My research interests lie in furthering our understanding and filling knowledge gaps on marine species and their relationship with the wider environment. I use novel technology including telemetry, genetic analysis, and stable isotopes to answer questions on; species behaviour and range, population dynamics, feeding ecology, and habitat use. 
 ---
 
 Leila Fouda
