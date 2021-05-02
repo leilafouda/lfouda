@@ -46,7 +46,7 @@ experience:
   location: 
   date_start: '2016-08-12'
   date_end: '2016-09-23'
-  description: "Conducting cliff-based field surveys from two sites in Broadhaven Bay using theodolites and VADAR to map the location of marine mammals in the bay. Duties on during cliff surveys include-- constant scanning for marine mammals, weather observations, theodolite tracking of marine mammals, and VADAR data entry. Outside of fieldwork and during bad weather days my time is spent in the office on data entry, data cleaning and analysis duties."
+  description: "Conducting cliff-based field surveys from two sites in Broadhaven Bay using theodolites and VADAR to map the location of marine mammals in the bay. Duties on during cliff surveys include - constant scanning for marine mammals, weather observations, theodolite tracking of marine mammals, and VADAR data entry. Outside of fieldwork and during bad weather days my time is spent in the office on data entry, data cleaning and analysis duties."
   - title: Research Assistant
   company: Centre for Marine Science and Technology (CMST), Curtin University
   company_url: ''
@@ -54,7 +54,7 @@ experience:
   location: 
   date_start: '2016-08-12'
   date_end: '2016-09-23'
-  description: "*Grant recipient with Dr. Christine Erbe.* Developing a bioacoustics and population-ecology study on Australian populations of killer whales (Orcinus orca) following a successfully co-written grant application. Co-ordinating and co-leading research trips to the Bremer Canyon and Exmouth field sites. Leading photo-identification and behavioural data collection. I was actively involved in data analysis, management and publication preparation utilising both MATLAB and RAVEN software. Additionally, I designed and formatted a photo-identification catalogue using FinBase. During the Bremer Canyon research trip I also took on the role of on-board naturalist for passengers, giving an introductory talk and answering questions during tours. For two weeks I supervised four Year 10 students conducting science projects on killer whale data collected in the Bremer Canyon."
+  description: "Grant recipient with Dr. Christine Erbe. Developing a bioacoustics and population-ecology study on Australian populations of killer whales (Orcinus orca) following a successfully co-written grant application. Co-ordinating and co-leading research trips to the Bremer Canyon and Exmouth field sites. Leading photo-identification and behavioural data collection. I was actively involved in data analysis, management and publication preparation utilising both MATLAB and RAVEN software. Additionally, I designed and formatted a photo-identification catalogue using FinBase. During the Bremer Canyon research trip I also took on the role of on-board naturalist for passengers, giving an introductory talk and answering questions during tours. For two weeks I supervised four Year 10 students conducting science projects on killer whale data collected in the Bremer Canyon."
 design:
   columns: '2'
 ---
