@@ -46,7 +46,7 @@ experience:
   location: 
   date_start: '2016-08-12'
   date_end: '2016-09-23'
-  description: "Conducting cliff-based field surveys from two sites in Broadhaven Bay using theodolites and VADAR to map the location of marine mammals in the bay. Duties on during cliff surveys include - constant scanning for marine mammals, weather observations, theodolite tracking of marine mammals, and VADAR data entry. Outside of fieldwork and during bad weather days my time is spent in the office on data entry, data cleaning and analysis duties."
+  description: "research"
   - title: Research Assistant
   company: Centre for Marine Science and Technology (CMST), Curtin University
   company_url: ''
