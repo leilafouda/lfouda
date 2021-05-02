@@ -26,7 +26,7 @@ slides:
 summary: 
 tags:
 - Source Themes
-title: Killer Whale (<em>Orcinus orca</em>) Predation on Beaked Whales (Mesoplodon spp.) in the Bremer Sub-Basin, Western Australia
+title: Killer Whale (_Orcinus orca_) Predation on Beaked Whales (Mesoplodon spp.) in the Bremer Sub-Basin, Western Australia
 url_code: ""
 url_dataset: ""
 url_pdf: http://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0166670&type=printable
