@@ -24,7 +24,7 @@ slides:
 summary: 
 tags:
 - Source Themes
-title: Vocalisations of Killer Whales (Orcinus orca) in the Bremer Canyon, Western Australia
+title: Vocalisations of Killer Whales (<em>Orcinus orca</em>) in the Bremer Canyon, Western Australia
 url_code: ""
 url_dataset: ""
 url_pdf: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0136535

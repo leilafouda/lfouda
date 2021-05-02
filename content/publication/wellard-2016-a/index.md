@@ -1,5 +1,5 @@
 ---
-abstract: Observations of killer whales (Orcinus orca) feeding on the remains of beaked whales have been previously documented; however, to date, there has been no published account of killer whales actively preying upon beaked whales. This article describes the first field obser-vations of killer whales interacting with, hunting and preying upon beaked whales (Mesoplo-don spp.) on four separate occasions during 2014, 2015 and 2016 in the Bremer Sub-Basin, off the south coast of Western Australia.
+abstract: Observations of killer whales (<em>Orcinus orca</em>) feeding on the remains of beaked whales have been previously documented; however, to date, there has been no published account of killer whales actively preying upon beaked whales. This article describes the first field obser-vations of killer whales interacting with, hunting and preying upon beaked whales (<em>Mesoplo-don spp.</em>) on four separate occasions during 2014, 2015 and 2016 in the Bremer Sub-Basin, off the south coast of Western Australia.
 
 authors:
 - Rebecca Wellard
@@ -26,7 +26,7 @@ slides:
 summary: 
 tags:
 - Source Themes
-title: Killer Whale (Orcinus orca) Predation on Beaked Whales (Mesoplodon spp.) in the Bremer Sub-Basin, Western Australia
+title: Killer Whale (<em>Orcinus orca</em>) Predation on Beaked Whales (Mesoplodon spp.) in the Bremer Sub-Basin, Western Australia
 url_code: ""
 url_dataset: ""
 url_pdf: http://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0166670&type=printable
