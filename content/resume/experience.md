@@ -16,8 +16,7 @@ experience:
   date_end: ''
   description: "London NERC DTP Student. Feeding Ecology of Loggerhead Sea Turtles"
 - title: Faculty Research Assistant
-  company: The University of Maryland Center for Environmental Science
-(UMCES), Chesapeake Biological Laboratory (CBL).
+  company: The University of Maryland Center for Environmental Science (UMCES), Chesapeake Biological Laboratory (CBL).
   company_url: ''
   #company_logo: org-x
   location: Solomons Island, Maryland, USA
