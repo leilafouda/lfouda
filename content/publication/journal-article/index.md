@@ -20,12 +20,11 @@ image:
 projects: []
 publication: '*Biology Letters*(14)'
 publication_short: 
-publication_types: "Journal Article"
+publication_types: Journal Article
 - "2"
 publishDate: "2018-10-24T00:00:00Z"
-slides: example
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+slides: 
+summary: 
 tags:
 - Source Themes
 title: Dolphins simplify their vocal calls in response to increased ambient noise
