@@ -31,7 +31,7 @@ item:
   title: London NERC DTP studentships
   url: "https://london-nerc-dtp.org/"
 - date_end: ""
-  date_start: "2014"
+  date_start: "2014-12-01"
   description: Bremer Canyon Killer Whales – Bioacoustic and population study. Grant Recipient with Dr. Christine Erbe at the Centre for Marine Science and Technology.
   organization: SeaWorld and Busch Gardens Conservation Fund
   organization_url: https://swbg-conservationfund.org/
