@@ -3,12 +3,6 @@ abstract: Ocean noise varies spatially and temporally and is driven by natural a
 author_notes:
 authors:
 - leila
-# - Jessica E. Wingfield
-# - Amber D. Fandel
-# - Aran Garrod
-# - Kristin B. Hodge
-# - Aaron N. Rice
-# - Helen Bailey
 
 date: "2015-09-01T00:00:00Z"
 doi: "10.1098/rsbl.2018.0484"
