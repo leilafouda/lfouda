@@ -16,7 +16,7 @@ featured: true
 # Custom links (uncomment lines below)
 links:
 - name: Paper Link
-url: https://royalsocietypublishing.org/doi/10.1098/rsbl.2018.0484
+url: www.royalsocietypublishing.org/doi/10.1098/rsbl.2018.0484
 image:
   caption: 
   focal_point: ""
