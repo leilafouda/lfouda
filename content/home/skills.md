@@ -21,10 +21,16 @@ feature:
   name: R
 - icon: chart-line
   icon_pack: fas
-  name: Statistics
-- icon: camera-retro
+  name: Statistical Analysis
+- icon: dna
   icon_pack: fas
-  name: Photography
+  name: DNA Extraction
+- icon: atom
+  icon_pack: fas
+  name: Stable Isotope Analysis
+- icon: binoculars
+  icon_pack: fas
+  name: Survey Techniques
 
 # Uncomment to use emoji icons.
 #- icon = ":smile:"
