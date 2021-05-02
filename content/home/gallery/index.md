@@ -4,8 +4,9 @@
 widget: blank
 
 # This file represents a page section.
+active: false
 headless: true
-acitve: false
+
 
 # Order that this section appears on the page.
 weight: 66
