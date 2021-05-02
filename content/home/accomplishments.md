@@ -30,7 +30,7 @@ item:
   organization: London NERC DTP
   organization_url: https://london-nerc-dtp.org/
   title: London NERC DTP studentships
-  url: https://london-nerc-dtp.org/
+  url: "https://london-nerc-dtp.org/"
 - certificate_url: https://swbg-conservationfund.org/
   date_end: "2015"
   date_start: "2014"
@@ -38,7 +38,7 @@ item:
   organization: SeaWorld and Busch Gardens Conservation Fund
   organization_url: https://swbg-conservationfund.org/
   title: SeaWorld and Busch Gardens Conservation Fund
-  url: https://swbg-conservationfund.org/
+  url: "https://swbg-conservationfund.org/"
 
 design:
   columns: '2' 
