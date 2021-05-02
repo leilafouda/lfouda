@@ -23,16 +23,14 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://london-nerc-dtp.org/profile/foudal/
-  date_end: ""
+- date_end: ""
   date_start: "2017-09-25"
   description: "London NERC DTP PhD Studentship in the natural sciences"
   organization: London NERC DTP
   organization_url: https://london-nerc-dtp.org/
   title: London NERC DTP studentships
   url: "https://london-nerc-dtp.org/"
-- certificate_url: https://swbg-conservationfund.org/
-  date_end: ""
+- date_end: ""
   date_start: "2014-01-01"
   description: Bremer Canyon Killer Whales – Bioacoustic and population study. Grant Recipient with Dr. Christine Erbe at the Centre for Marine Science and Technology.
   organization: SeaWorld and Busch Gardens Conservation Fund
