@@ -1,36 +1,44 @@
 ---
-abstract: Ocean noise varies spatially and temporally and is driven by natural and anthropogenic processes. Increased ambient noise levels can cause signal masking and communication impairment, affecting fitness and recruitment success. However, the effects of increasing ambient noise levels on marine species, such as marine mammals that primarily rely on sound for communication, are not well understood. We investigated the effects of concurrent ambient noise levels on social whistle calls produced by bottlenose dolphins (Tursiops truncatus) in the western North Atlantic. Elevated ambient noise levels were mainly caused by ship noise. Increases in ship noise, both within and below the dolphins' call bandwidth, resulted in higher dolphin whistle frequencies and a reduction in whistle contour complexity, an acoustic feature associated with individual identification. Consequently, the noise-induced simplification of dolphin whistles may reduce the information content in these acoustic signals and decrease effective communication, parent–offspring proximity or group cohesion.
+abstract: Long-term monitoring of host-parasite interactions is important for understanding the consequences of infection on host fitness and population dynamics. In an eight-year survey of the loggerhead sea turtle (Caretta caretta) population nesting in Cabo Verde, we determined the spatiotemporal variation of Ozobranchus margoi, a sanguivorous leech best known as a vector for sea turtle fibropapilloma virus. We quantified O. margoi association with turtles’ δ15N and δ13C stable isotopes to identify where infection occurs. We then measured the influence of infection on reproduction and offspring fitness. We found that parasite prevalence has increased from 10% of the population in 2010, to 33% in 2017. Stable isotope analysis of host skin samples suggests transmission occurs within the host’s feeding grounds. Interestingly, we found a significant interaction between individual size and infection on the reproductive success of turtles. Specifically, small, infected females produced fewer offspring of poorer condition, while in contrast, large, infected turtles produced greater clutch sizes and larger offspring. We interpret this interaction as evidence, upon infection, for a size-dependent shift in reproductive strategy from bet hedging to terminal investment, altering population dynamics. This link between infection and reproduction underscores the importance of using long-term monitoring to quantify the impact of disease dynamics over time.
 
 authors:
+- Emma C. Lockley
 - leila
-- Jessica E. Wingfield
-- Amber D. Fandel
-- Aran Garrod
-- Kristin B. Hodge
-- Aaron N. Rice
-- Helen Bailey
+- Sandra M. Correia
+- Albert Taxonera
+- Liam N. Nash
+- Kirsten Fairweather
+- Thomas Reischig
+- Jandira Durão
+- Herculano Dinis
+- Silvana Monteiro Roque
+- João Pina Lomba
+- Leno dos Passos
+- Sahmorie J. K. Cameron
+- Victor A. Stiebens
+- Christophe Eizaguirre
 
-date: "2015-09-01T00:00:00Z"
-doi: "10.1098/rsbl.2018.0484"
-featured: true
+date: "2020-10-01T00:00:00Z"
+doi: "10.1038/s41598-020-75498-4"
+featured: false
 image:
   caption: 
   focal_point: ""
   preview_only: false
 projects: []
-publication: '*Biology Letters*(14)'
+publication: '*Scientific Reports* (1)'
 publication_short: 
 publication_types:
 - "2"
-publishDate: "2018-10-24T00:00:00Z"
+publishDate: "2020-10-01T00:00:00Z"
 slides: 
 summary: 
 tags:
 - Source Themes
-title: Dolphins simplify their vocal calls in response to increased ambient noise
+title: Long-term survey of sea turtles ( _Caretta caretta_ ) reveals correlations between parasite infection, feeding ecology, reproductive success and population dynamics
 url_code: ""
 url_dataset: ""
-url_pdf: https://royalsocietypublishing.org/doi/10.1098/rsbl.2018.0484
+url_pdf: https://www.nature.com/articles/s41598-020-75498-4
 url_poster: ""
 url_project: ""
 url_slides: ""

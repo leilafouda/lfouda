@@ -1,36 +1,35 @@
 ---
-abstract: Ocean noise varies spatially and temporally and is driven by natural and anthropogenic processes. Increased ambient noise levels can cause signal masking and communication impairment, affecting fitness and recruitment success. However, the effects of increasing ambient noise levels on marine species, such as marine mammals that primarily rely on sound for communication, are not well understood. We investigated the effects of concurrent ambient noise levels on social whistle calls produced by bottlenose dolphins (Tursiops truncatus) in the western North Atlantic. Elevated ambient noise levels were mainly caused by ship noise. Increases in ship noise, both within and below the dolphins' call bandwidth, resulted in higher dolphin whistle frequencies and a reduction in whistle contour complexity, an acoustic feature associated with individual identification. Consequently, the noise-induced simplification of dolphin whistles may reduce the information content in these acoustic signals and decrease effective communication, parent–offspring proximity or group cohesion.
+abstract: Here, we report cetacean sightings made within a major oceanic accumulation zone for plastics, often referred to as the ‘Great Pacific Garbage Patch’ (GPGP). These cetacean records occurred in October 2016 and were made by sensors and trained observers aboard a Hercules C-130 aircraft surveying the GPGP at 400 m height and 140 knots speed. Four sperm whales (including a mother and calf pair), three beaked whales, two baleen whales, and at least five other cetaceans were observed. Many surface drifting plastics were also detected, including fishing nets, ropes, floats and fragmented debris. Some of these objects were close to the sighted mammals, posing entanglement and ingestion risks to animals using the GPGP as a migration corridor or core habitat. Our study demonstrates the potential exposure of several cetacean species to the high levels of plastic pollution in the area. Further research is required to evaluate the potential effects of the GPGP on marine mammal populations inhabiting the North Pacific.
 
 authors:
+- Susan E. Gibbs
+- Chandra P. Salgado Kent 
+- Boyan Slat
+- Damien Morales
 - leila
-- Jessica E. Wingfield
-- Amber D. Fandel
-- Aran Garrod
-- Kristin B. Hodge
-- Aaron N. Rice
-- Helen Bailey
+- Julia Reisser
 
-date: "2015-09-01T00:00:00Z"
-doi: "10.1098/rsbl.2018.0484"
-featured: true
+date: "2019-08-01T00:00:00Z"
+doi: "10.1007/s12526-019-00952-0"
+featured: false
 image:
   caption: 
   focal_point: ""
   preview_only: false
 projects: []
-publication: '*Biology Letters*(14)'
+publication: '*Marine Biodiversity* (4)'
 publication_short: 
 publication_types:
 - "2"
-publishDate: "2018-10-24T00:00:00Z"
+publishDate: "2019-08-01T00:00:00Z"
 slides: 
 summary: 
 tags:
 - Source Themes
-title: Dolphins simplify their vocal calls in response to increased ambient noise
+title: Cetacean sightings within the Great Pacific Garbage Patch
 url_code: ""
 url_dataset: ""
-url_pdf: https://royalsocietypublishing.org/doi/10.1098/rsbl.2018.0484
+url_pdf: http://link.springer.com/10.1007/s12526-019-00952-0
 url_poster: ""
 url_project: ""
 url_slides: ""

@@ -17,7 +17,7 @@ image:
   focal_point: ""
   preview_only: false
 projects: []
-publication: '*The Journal of the Acoustical Society of America*(2)'
+publication: '*The Journal of the Acoustical Society of America* (2)'
 publication_short: 
 publication_types:
 - "2"
