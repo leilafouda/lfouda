@@ -14,7 +14,7 @@ date: "2018-10-24T00:00:00Z"
 doi: "10.1098/rsbl.2018.0484"
 featured: true
 # Custom links (uncomment lines below)
-# links:
+links:
 - name: Paper Link
 url: https://royalsocietypublishing.org/doi/10.1098/rsbl.2018.0484
 image:
