@@ -24,7 +24,10 @@ feature:
   name: Statistical Analysis
 - icon: dna
   icon_pack: fas
-  name: DNA Extraction
+  name: DNA Extraction and Analysis
+- icon: drafting-compass
+  icon_pack: fas
+  name: Movement Analysis
 - icon: atom
   icon_pack: fas
   name: Stable Isotope Analysis
