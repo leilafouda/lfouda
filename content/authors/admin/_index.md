@@ -44,4 +44,4 @@ bio: My research interests include marine movement and foraging ecology stable i
 
 Leila Fouda
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "" "newtab" >}}resumé (coming soon!){{< /staticref >}}.
