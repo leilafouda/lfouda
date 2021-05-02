@@ -44,4 +44,4 @@ bio: My research interests include marine movement and foraging ecology stable i
 
 Leila Fouda
 
-{{< icon name="orcid" pack="ai" >}} Find my {{< staticref "https://orcid.org/0000-0002-0723-3697" "newtab" >}}orcid page here{{< /staticref >}}.
+{{< icon name="orcid" pack="ai" >}} Find my [orcid page here](https://orcid.org/0000-0002-0723-3697).
