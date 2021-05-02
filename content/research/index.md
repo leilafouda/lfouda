@@ -12,7 +12,7 @@ comments: false  # Show comments?
 header:
   caption: ""
   image: "BC_Ocean_Boat_2013.jpeg"
-  width: 50%
+  width: 25%
 ---
 
-My work has covered a breadth of areas focused in the marine realm.
+My research interests lie in furthering our understanding and filling knowledge gaps on marine species and their relationship with the wider environment. I use novel technology including telemetry, genetic analysis, and stable isotopes to answer questions on; species behaviour and range, population dynamics, feeding ecology, and habitat use. 
