@@ -35,7 +35,7 @@ slides:
 summary: 
 tags:
 - Source Themes
-title: Long-term survey of sea turtles (<em>Caretta caretta</em>) reveals correlations between parasite infection, feeding ecology, reproductive success and population dynamics
+title: Long-term survey of sea turtles (Caretta caretta) reveals correlations between parasite infection, feeding ecology, reproductive success and population dynamics
 url_code: ""
 url_dataset: ""
 url_pdf: https://www.nature.com/articles/s41598-020-75498-4
