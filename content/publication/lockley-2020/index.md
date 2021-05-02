@@ -18,7 +18,7 @@ authors:
 - Victor A. Stiebens
 - Christophe Eizaguirre
 
-date: "2020-10-01T00:00:00Z"
+date: "2020-10-29T00:00:00Z"
 doi: "10.1038/s41598-020-75498-4"
 featured: false
 image:
@@ -30,7 +30,7 @@ publication: '*Scientific Reports* (1)'
 publication_short: 
 publication_types:
 - "2"
-publishDate: "2020-10-01T00:00:00Z"
+publishDate: "2020-10-29T00:00:00Z"
 slides: 
 summary: 
 tags:

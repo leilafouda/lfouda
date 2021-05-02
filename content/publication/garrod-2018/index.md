@@ -9,7 +9,7 @@ authors:
 - Aaron N. Rice
 - Helen Bailey
 
-date: "2018-08-01T00:00:00Z"
+date: "2018-08-22T00:00:00Z"
 doi: "10.1121/1.5049802"
 featured: false
 image:
@@ -21,7 +21,7 @@ publication: '*The Journal of the Acoustical Society of America* (2)'
 publication_short: 
 publication_types:
 - "2"
-publishDate: "2018-08-01T00:00:00Z"
+publishDate: "2018-08-22T00:00:00Z"
 slides: 
 summary: 
 tags:
