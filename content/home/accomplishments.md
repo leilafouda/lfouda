@@ -32,8 +32,8 @@ item:
   title: London NERC DTP studentships
   url: "https://london-nerc-dtp.org/"
 - certificate_url: https://swbg-conservationfund.org/
-  date_end: "2015"
-  date_start: "2014"
+  date_end: "2015-01-01"
+  date_start: "2014-01-01"
   description: SeaWorld and Busch Gardens Conservation Fund
   organization: SeaWorld and Busch Gardens Conservation Fund
   organization_url: https://swbg-conservationfund.org/
