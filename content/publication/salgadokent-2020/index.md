@@ -10,7 +10,7 @@ authors:
 - Aaron N. Rice
 - Helen Bailey
 
-date: "2018-10-01T00:00:00Z"
+date: "2015-09-01T00:00:00Z"
 doi: "10.1098/rsbl.2018.0484"
 featured: true
 image:
@@ -18,8 +18,8 @@ image:
   focal_point: ""
   preview_only: false
 projects: []
-publication: '*Biology Letters* (14)'
-publication_short:  'Biol. Lett.'
+publication: '*Biology Letters*(14)'
+publication_short: 
 publication_types:
 - "2"
 publishDate: "2018-10-24T00:00:00Z"
