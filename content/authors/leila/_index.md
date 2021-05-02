@@ -5,7 +5,7 @@ education:
   - course: PhD in Marine Ecology
     institution: Queen Mary University of London
     year: Present
-  - course: BSc in Conservation Science
+  - course: MSc in Conservation Science
     institution: Imperial College London
     year: 2012
   - course: BSc (Hons) in Marine Biology
