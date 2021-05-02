@@ -55,6 +55,22 @@ experience:
   date_start: '2016-08-12'
   date_end: '2016-09-23'
   description: "Grant recipient with Dr. Christine Erbe. Developing a bioacoustics and population-ecology study on Australian populations of killer whales (Orcinus orca) following a successfully co-written grant application. Co-ordinating and co-leading research trips to the Bremer Canyon and Exmouth field sites. Leading photo-identification and behavioural data collection. I was actively involved in data analysis, management and publication preparation utilising both MATLAB and RAVEN software. Additionally, I designed and formatted a photo-identification catalogue using FinBase. During the Bremer Canyon research trip I also took on the role of on-board naturalist for passengers, giving an introductory talk and answering questions during tours. For two weeks I supervised four Year 10 students conducting science projects on killer whale data collected in the Bremer Canyon."
+- title: Research Assistant
+  company: Centre for Marine Science and Technology (CMST), Curtin University
+  company_url: ''
+  #company_logo: org-x
+  location: 
+  date_start: '2013-10-01'
+  date_end: '2013-11-01'
+  description: "Analysing underwater spectrograms from the Australian northwest continental shelf to identify the principal features of the soundscape. I utilised available CMST reports from noise logger deployments to further understand the soundscapes significant features and labelled monthly percentile graphs with identified features. This work went towards a much broader study looking at the temporal and geographical variability in underwater soundscapes around Australia."
+- title: Research Assistant
+  company: Behavioural Response of Australian Humpback whales to Seismic Surveys (BRAHSS). Joint Industry Partners (JIP).
+  company_url: ''
+  #company_logo: org-x
+  location: 
+  date_start: '2013-09-01'
+  date_end: '2013-10-01'
+  description: "Large long-term project looking at the effect of seismic surveys on humpback whales (Megaptera novaeangliae). My role involved scanning for humpback whale pods travelling consistently south for small vessel focal follows. During seismic trials continuously scanning for marine mammals and other vessels to ensure mitigations on animal and vessel distances were met. Using degrees and reticules to communicate pod location to VADAR operator. VADAR programme set up, operations for scan surveys, data clean up and back up. Using R to calculating and plotting reticules error with swell."
 design:
   columns: '2'
 ---
