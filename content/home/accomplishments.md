@@ -24,7 +24,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
 - certificate_url: https://london-nerc-dtp.org/
-  date_end: "Present"
+  date_end: ""
   date_start: "2017-09-25"
   description: ""
   organization: London NERC DTP
@@ -32,7 +32,7 @@ item:
   title: London NERC DTP studentships
   url: ""
 - certificate_url: https://swbg-conservationfund.org/
-  date_end: "2015-01-01"
+  date_end: ""
   date_start: "2014-01-01"
   description: SeaWorld and Busch Gardens Conservation Fund
   organization: SeaWorld and Busch Gardens Conservation Fund
