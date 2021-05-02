@@ -28,7 +28,7 @@ experience:
   company_url: ''
   #company_logo: org-x
   location: 
-  date_start: '2016-10-01'
+  date_start: '2016-10-19'
   date_end: '2017-03-01'
   description: "Following aerial surveys to collect data on plastic distribution over the Great Pacific Garbage Patch (accumulation zone), I am undertaking data cleaning, quality control, and post processing. In addition to data processing I am involved in the writing of the final report and planned peer-reviewed publications."
 - title: Research Assistant (Aerial Observer)
