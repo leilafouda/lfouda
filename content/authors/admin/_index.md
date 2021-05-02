@@ -8,10 +8,10 @@ education:
   - course: BSc in Conservation Science
     institution: Imperial College London
     year: 2012
-  - course: BSc in Marine Biology
+  - course: BSc (Hons) in Marine Biology
     institution: University of St Andrews
     year: 2009
-email: ''
+email: 'lfouda@gmail.com'
 highlight_name: no
 interests:
 - Marine Ecology
