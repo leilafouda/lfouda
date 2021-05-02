@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://london-nerc-dtp.org/
+- certificate_url: https://london-nerc-dtp.org/profile/foudal/
   date_end: ""
   date_start: "2017-09-25"
   description: "London NERC DTP PhD Studentship in the natural sciences"
