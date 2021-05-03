@@ -81,6 +81,7 @@ a:hover {
 
 .portrait-title h2 {
   color: #333;
+  font-size: small;
 }
 
 #about .col-12.col-lg-8 {
@@ -92,7 +93,7 @@ a:hover {
 }
 
 #featured .col-12.col-lg-8 {
-  padding: 20px 50px 20px 10px;
+  padding-top: 20px !important;
 }
 
 #publications .col-12.col-lg-8 {
