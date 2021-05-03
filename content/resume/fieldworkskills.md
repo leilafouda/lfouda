@@ -22,6 +22,9 @@ feature:
 - icon: tags
   icon_pack: fas
   name: Animal Tagging (Sea Turtle)
+- icon: vials
+  icon_pack: fas
+  name: Tissue Sample and Morphometry Data Collection
 - icon: external-link-square-alt
   icon_pack: fas
   name: Line-Transect Surveys and Focal Follows
@@ -34,7 +37,7 @@ feature:
 - icon: plane
   icon_pack: fas
   name: Aerial observations.
-- icon: vial
+- icon: fill
   icon_pack: fas
   name: Prey Sampling
 

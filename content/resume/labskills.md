@@ -30,9 +30,9 @@ feature:
   name: Movement Analysis (Location and Accelerometer)
 - icon: atom
   icon_pack: fas
-  name: Stable Isotope Analysis
+  name: Stable Isotope Sample Processing and Analysis
 - icon: map-marked-alt
-  icon_pack: map-marked-alt
+  icon_pack: fas
   name: GIS
 
 
