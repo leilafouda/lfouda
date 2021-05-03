@@ -32,14 +32,14 @@ a:hover {
 
 .navbar {
   box-shadow: none;
-  text-transform: uppercase;
+  text-transform: capitalize;
 	letter-spacing: .1em;
 	font-size: .9em;
 	color: #005c91;
 }
 
 .navbar-brand {
-  text-transform: uppercase;
+  text-transform: capitalize;
   font-weight: 600;
 	letter-spacing: .1em;
 	color: #005c91;
@@ -110,7 +110,7 @@ a:hover {
 .home-section.wg-pages .section-heading p {
   margin-top: 0;
   margin-bottom: 1rem;
-  text-transform: uppercase;
+  text-transform: capitalize;
   letter-spacing: .08em;
 }
 
