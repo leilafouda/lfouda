@@ -33,7 +33,17 @@ feature:
   name: Stable Isotope Analysis
 - icon: binoculars
   icon_pack: fas
-  name: Survey Techniques
+  name: Marine Mammal Observations
+- icon: tags
+  icon_pack: fas
+  name: Animal Tagging
+- icon: external-link-square-alt
+  icon_pack: fas
+  name: Line-Transect Surveys and Focal Follows
+- icon: images
+  icon_pack: fas
+  name: Cetacean Photo-ID
+
 
 # Uncomment to use emoji icons.
 #- icon = ":smile:"
