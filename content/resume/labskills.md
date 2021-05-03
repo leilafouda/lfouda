@@ -27,7 +27,7 @@ feature:
   name: DNA Extraction and Analysis
 - icon: drafting-compass
   icon_pack: fas
-  name: Movement Analysis (Location and Accelerometer)
+  name: Movement Analysis (Spatial and Accelerometer)
 - icon: atom
   icon_pack: fas
   name: Stable Isotope Sample Processing and Analysis
