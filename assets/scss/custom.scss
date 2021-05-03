@@ -7,7 +7,6 @@ body {
 
 .navbar {
   min-height: 80px !important;
-  color: #005c91;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -36,12 +35,14 @@ a:hover {
   text-transform: uppercase;
 	letter-spacing: .1em;
 	font-size: .9em;
+	color: #005c91;
 }
 
 .navbar-brand {
   text-transform: uppercase;
   font-weight: 600;
 	letter-spacing: .1em;
+	color: #005c91;
 }
 
 /*----NAV LINK HOVER ANIMATION -----*/
