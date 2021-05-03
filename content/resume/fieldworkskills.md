@@ -16,15 +16,15 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- icon: binoculars
-  icon_pack: fas
-  name: Marine Mammal Observations (Boat and Land based)
 - icon: tags
   icon_pack: fas
   name: Animal Tagging (Sea Turtle)
 - icon: vials
   icon_pack: fas
   name: Tissue Sample and Morphometry Data Collection
+- icon: binoculars
+  icon_pack: fas
+  name: Marine Mammal Observations (Boat and Land based)
 - icon: external-link-square-alt
   icon_pack: fas
   name: Line-Transect Surveys and Focal Follows
@@ -36,7 +36,7 @@ feature:
   name: Hydrophone set-up and operation. 
 - icon: plane
   icon_pack: fas
-  name: Aerial observations.
+  name: Aerial observations
 - icon: fill
   icon_pack: fas
   name: Prey Sampling

@@ -34,6 +34,13 @@ feature:
 - icon: map-marked-alt
   icon_pack: fas
   name: GIS
+- icon: headset
+  icon_pack: fas
+  name: Acoustic Analysis
+- icon: Raven_Logo
+  name: RAVEN
+- icon: Pamguard_Logo
+  name: PAMGUARD
 
 
 # Uncomment to use emoji icons.
