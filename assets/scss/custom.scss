@@ -288,7 +288,8 @@ img {
 }
 
 iframe {
-	border: 0;
+	padding: 0;
+    margin: 0;
 }
 
 /* pagination buttons */
@@ -319,7 +320,7 @@ iframe {
 
 /* https://github.com/gcushen/hugo-academic/issues/147 */
 .container {
-  max-width: 90%;
+  max-width: 80%;
 }
 
 .carousel-indicators li {
