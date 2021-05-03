@@ -228,7 +228,7 @@ div.alert.alert-todo {
 }
 
 .btn.btn-outline-primary.my-1.mr-1 {
-  border-radius: 25px; /*redo rounded corners*/
+  border-radius: 15px; /*redo rounded corners*/
   font-size: 0.8rem;
 }
 
@@ -236,17 +236,15 @@ div.alert.alert-todo {
   font-family: Lora;
   text-transform: lowercase;
   font-style: regular;
-  border-radius: 25px;
-  border: 2px solid #73AD21;
-  padding: 100px; 
+  border-radius: 15px;
 }
 
 .btn-toolbar .btn:first-child {
-  border-radius: 25px;
+  border-radius: 15px;
 }
 
 .btn-toolbar .btn:last-child {
-  border-radius: 25px;
+  border-radius: 15px;
 }
 
 .btn-toolbar {
