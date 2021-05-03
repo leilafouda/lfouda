@@ -103,6 +103,10 @@ a:hover {
   padding-top: 20px !important;
 }
 
+#gallery .col-12.col-lg-8 {
+  padding-top: 20px !important;
+}
+
 .network-icon li:hover {
   transform: scale(1.05);
 }
@@ -287,9 +291,16 @@ img {
 	box-shadow: 0 2px 4px 0 rgba(0,0,0,.2);
 }
 
+
+div.gallery {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 180px;
+}
+
 iframe {
-	padding: 0px 0px 0px 0px;
-    margin: 0px 0px 0px 0px;
+  border: 0;
 }
 
 /* pagination buttons */
