@@ -1,11 +1,11 @@
 # Theme metadata
-name = "Minimal"
+name = "my_theme"
 
 # Is theme light or dark?
 light = true
 
 # Primary
-primary = "#1565c0"
+primary = "#c09e15"
 
 # Menu
 menu_primary = "#fff"
