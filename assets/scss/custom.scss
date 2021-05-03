@@ -223,12 +223,12 @@ div.alert.alert-todo {
 /* buttons */
 
 .btn.btn-sm, .btn-group-sm > .btn {
-  border-radius: 1rem; /*redo rounded corners*/
+  border-radius: 0.5rem; /*redo rounded corners*/
   font-size: 0.8rem;
 }
 
 .btn.btn-outline-primary.my-1.mr-1 {
-  border-radius: 50px; /*redo rounded corners*/
+  border-radius: 8px; /*redo rounded corners*/
   font-size: 0.8rem;
 }
 
@@ -236,7 +236,7 @@ div.alert.alert-todo {
   font-family: Lora;
   text-transform: lowercase;
   font-style: regular;
-  border-radius: 15px;
+  border-radius: 8px;
 }
 
 .btn-toolbar .btn:first-child {
