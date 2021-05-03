@@ -81,7 +81,6 @@ a:hover {
 
 .portrait-title h2 {
   color: #333;
-  font-size: small;
 }
 
 #about .col-12.col-lg-8 {
@@ -251,7 +250,7 @@ div.alert.alert-todo {
 /* section headers */
 
 div.universal-wrapper.pt-3 h1 {
-  text-align: center;
+  text-align: left;
   padding-bottom: 50px;
   text-transform: capitalize;
 }
@@ -354,7 +353,7 @@ iframe {
 }
 
 #TableOfContents {
-	border-left: 1px solid #09bc8a3d;
+	border-left: 0.1px solid #09bc8a3d;
 }
 
 html {
