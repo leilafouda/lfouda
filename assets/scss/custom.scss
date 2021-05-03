@@ -1,12 +1,12 @@
 /* Whole document: */
 
 body {
-  margin-top: 100px !important;
+  margin-top: 80px !important;
   color: #13123d;
 }
 
 .navbar {
-  min-height: 100px !important;
+  min-height: 80px !important;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -39,7 +39,7 @@ a:hover {
 
 .navbar-brand {
   text-transform: uppercase;
-  font-weight: 700;
+  font-weight: 600;
 	letter-spacing: .1em;
 }
 
@@ -67,7 +67,7 @@ a:hover {
   width: 0%;
   content: '.'; /* make invisible, dot beneath links */
   color: transparent;
-  background: #1b86f2;
+  background: #1a70c7;
   height: 2px;
 }
 
