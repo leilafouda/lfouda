@@ -7,42 +7,36 @@ widget: featurette
 headless: true
 
 # Order that this section appears on the page.
-weight: 40
+weight: 60
 
-title: Skills
+title: Fieldwork Skills
 subtitle:
 
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- icon: r-project
-  icon_pack: fab
-  name: R
-- icon: chart-line
-  icon_pack: fas
-  name: Statistical Analysis
-- icon: dna
-  icon_pack: fas
-  name: DNA Extraction and Analysis
-- icon: drafting-compass
-  icon_pack: fas
-  name: Movement Analysis
-- icon: atom
-  icon_pack: fas
-  name: Stable Isotope Analysis
 - icon: binoculars
   icon_pack: fas
-  name: Marine Mammal Observations
+  name: Marine Mammal Observations (Boat and Land based)
 - icon: tags
   icon_pack: fas
-  name: Animal Tagging
+  name: Animal Tagging (Sea Turtle)
 - icon: external-link-square-alt
   icon_pack: fas
   name: Line-Transect Surveys and Focal Follows
 - icon: images
   icon_pack: fas
   name: Cetacean Photo-ID
+- icon: microphone-alt
+  icon_pack: fas
+  name: Hydrophone set-up and operation. 
+- icon: plane
+  icon_pack: fas
+  name: Aerial observations.
+- icon: vial
+  icon_pack: fas
+  name: Prey Sampling
 
 
 # Uncomment to use emoji icons.
