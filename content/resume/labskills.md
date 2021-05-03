@@ -31,7 +31,7 @@ feature:
 - icon: atom
   icon_pack: fas
   name: Stable Isotope Analysis
-- map-marked-alt
+- icon: map-marked-alt
   icon_pack: map-marked-alt
   name: GIS
 
