@@ -22,6 +22,9 @@ feature:
 - icon: vials
   icon_pack: fas
   name: Tissue Sample and Morphometry Data Collection
+- icon: eye-dropper
+  icon_pack: fas
+  name: Sample and Data Processing and Preservation
 - icon: binoculars
   icon_pack: fas
   name: Marine Mammal Observations (Boat and Land based)
@@ -33,7 +36,7 @@ feature:
   name: Cetacean Photo-ID
 - icon: microphone-alt
   icon_pack: fas
-  name: Hydrophone set-up and operation. 
+  name: Hydrophone and Acoustic Recorder Set-up, Deployment and Operation. 
 - icon: plane
   icon_pack: fas
   name: Aerial observations
