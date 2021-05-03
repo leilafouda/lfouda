@@ -37,9 +37,11 @@ feature:
 - icon: headset
   icon_pack: fas
   name: Acoustic Analysis
-- icon: Raven_Logo
+- icon: crow
+  icon_pack: fas
   name: RAVEN
-- icon: Pamguard_Logo
+- icon: wave-square
+  icon_pack: fas
   name: PAMGUARD
 
 
