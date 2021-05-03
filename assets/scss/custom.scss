@@ -129,7 +129,7 @@ pre {
   padding: 0.25em;
   background: #fff;
   overflow-x: auto;
-  border-radius: 10px; /*undo rounded corners*/
+  border-radius: 10px; /*redo rounded corners*/
 }
 
 pre code { 
@@ -164,7 +164,7 @@ div.alert-todo > div:first-child::before {
   color: #004346;
   background-color: #fff;
   border-top: 4pt solid #09bc8a;
-  border-radius: 10px; /*undo rounded corners*/
+  border-radius: 10px; /*redo rounded corners*/
   border-right-style: none;
   border-bottom-style: none;
   border-left-style: none;
@@ -180,7 +180,7 @@ div.alert.alert-warning {
   color: #004346;
   background-color: #FFE7ED;
   border-top: 4pt solid #ff003f;
-  border-radius: 10px; /*undo rounded corners*/
+  border-radius: 10px; /*redo rounded corners*/
   border-right-style: none;
   border-bottom-style: none;
   border-left-style: none;
@@ -191,7 +191,7 @@ div.alert.alert-todo {
   color: #004346;
   background-color: #fff;
   border-top: 4pt solid #D7ADD0;
-  border-radius: 10px; /*undo rounded corners*/
+  border-radius: 10px; /*redo rounded corners*/
   border-right-style: none;
   border-bottom-style: none;
   border-left-style: none;
@@ -201,19 +201,19 @@ div.alert.alert-todo {
 /* buttons */
 
 .btn.btn-sm, .btn-group-sm > .btn {
-  border-radius: 10rem; /*undo rounded corners*/
+  border-radius: 10rem; /*redo rounded corners*/
   font-size: 0.8rem;
 }
 
 .btn.btn-outline-primary.my-1.mr-1 {
-  border-radius: 10px; /*undo rounded corners*/
+  border-radius: 10px; /*redo rounded corners*/
   font-size: 0.8rem;
 }
 
 .btn {
   font-family: Lora;
   text-transform: lowercase;
-  font-style: italic;
+  font-style: regular;
   border-radius: 10px;
 }
 
@@ -279,7 +279,7 @@ iframe {
 	color: #004346;
 	background-color: #F0F7FA;
 	border: 1px solid #004346;
-  border-radius: 10px; /*undo rounded corners*/
+  border-radius: 10px; /*redo rounded corners*/
 
 }
 
