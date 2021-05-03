@@ -27,7 +27,7 @@ a:hover {
 /* colour under menu items when hover */
 .navbar .navbar-nav .nav-link:hover,
 .navbar .navbar-nav .nav-link:focus {
-	color: #1b86f2; 
+	color: #073766; 
 }
 
 .navbar {
@@ -84,6 +84,10 @@ a:hover {
 }
 
 #about .col-12.col-lg-8 {
+  padding-top: 30px !important;
+}
+
+#featured .col-12.col-lg-8 {
   padding-top: 30px !important;
 }
 
