@@ -2,7 +2,7 @@
 title: "Experience"
 headless: no
 active: yes
-weight: 40
+weight: 20
 widget: experience
 subtitle: null
 date_format: Jan 2006
