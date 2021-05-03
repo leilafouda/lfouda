@@ -219,7 +219,7 @@ div.alert.alert-todo {
 /* buttons */
 
 .btn.btn-sm, .btn-group-sm > .btn {
-  border-radius: 0.625rem; /*redo rounded corners*/
+  border-radius: 1rem; /*redo rounded corners*/
   font-size: 0.8rem;
 }
 
@@ -232,7 +232,7 @@ div.alert.alert-todo {
   font-family: Lora;
   text-transform: lowercase;
   font-style: regular;
-  border-radius: 20px;
+  border-radius: 16px;
 }
 
 .btn-toolbar .btn:first-child {
