@@ -1,7 +1,7 @@
 ---
 title: Research
 summary: More about my research past and present.
-date: "2018-06-28T00:00:00Z"
+date: "2021-05-02T00:00:00Z"
 
 reading_time: false  # Show estimated reading time?
 share: false  # Show social sharing links?

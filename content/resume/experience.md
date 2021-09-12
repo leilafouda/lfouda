@@ -30,7 +30,7 @@ experience:
   location: 
   date_start: '2016-10-19'
   date_end: '2017-03-01'
-  description: "Following aerial surveys to collect data on plastic distribution over the Great Pacific Garbage Patch (accumulation zone), I am undertaking data cleaning, quality control, and post processing. In addition to data processing I was involved in the writing of the final report and peer-reviewed publications."
+  description: "Following aerial surveys to collect data on plastic distribution over the Great Pacific Garbage Patch (accumulation zone), I undertook data cleaning, quality control, and post processing. In addition to data processing I was involved in the writing of the final report and peer-reviewed publications."
 - title: Research Assistant (Aerial Observer)
   company: The Ocean Cleanup Foundation
   company_url: ''
@@ -46,7 +46,7 @@ experience:
   location: Broadhaven Bay, County Cork
   date_start: '2016-08-12'
   date_end: '2016-09-23'
-  description: "Conducting cliff-based field surveys from two sites in Broadhaven Bay using theodolites and VADAR to map the location of marine mammals in the bay. Duties on during cliff surveys include - constant scanning for marine mammals, weather observations, theodolite tracking of marine mammals, and VADAR data entry. Outside of fieldwork and during bad weather days my time is spent in the office on data entry, data cleaning and analysis duties."
+  description: "Conducting cliff-based field surveys from two sites in Broadhaven Bay using theodolites and VADAR to map the location of marine mammals in the bay. Duties during cliff surveys include - constant scanning for marine mammals, weather observations, theodolite tracking of marine mammals, and VADAR data entry. Outside of fieldwork and during bad weather days my time is spent in the office on data entry, data cleaning and analysis duties."
 - title: Research Assistant
   company: Centre for Marine Science and Technology (CMST), Curtin University
   company_url: ''
