@@ -14,7 +14,7 @@ experience:
   location: 
   date_start: '2017-09-25'
   date_end: ''
-  description: "London NERC DTP Student. Feeding Ecology of Loggerhead Sea Turtles"
+  description: "London NERC DTP Student. Investigating foraging ecology, movement ecology, and population dynamics of loggerhead sea turtles (<a>Caretta caretta</a>)."
 - title: Faculty Research Assistant
   company: The University of Maryland Center for Environmental Science (UMCES), Chesapeake Biological Laboratory (CBL)
   company_url: ''
