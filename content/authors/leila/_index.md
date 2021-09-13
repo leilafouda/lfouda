@@ -45,4 +45,4 @@ I am an early career marine ecologist. My research interests lie in furthering o
 
 {{< icon name="orcid" pack="ai" >}} Find my [orcid page here](https://orcid.org/0000-0002-0723-3697).
 
-{{< icon name="download" pack="fas" >}} Download {{< staticref "media/lfouda_cv.pdf" "newtab" >}}CV PDF Here{{< /staticref >}}
+{{< icon name="download" pack="fas" >}} Download {{< staticref "media/lfouda_cv.pdf" "newtab" >}}CV here{{< /staticref >}}.
