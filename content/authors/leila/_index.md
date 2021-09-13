@@ -44,4 +44,5 @@ bio: I am an early career marine ecologist. My research interests lie in further
 I am an early career marine ecologist. My research interests lie in furthering our understanding and filling knowledge gaps on marine species and their relationship with the wider environment.
 
 {{< icon name="orcid" pack="ai" >}} Find my [orcid page here](https://orcid.org/0000-0002-0723-3697).
-{{< icon name="download" pack="fas" >}} Download PDF {{< staticref "media/lfouda_cv.pdf" "newtab" >}}CV{{< /staticref >}}
+
+{{< icon name="download" pack="fas" >}} Download {{< staticref "media/lfouda_cv.pdf" "newtab" >}}CV PDF Here{{< /staticref >}}
