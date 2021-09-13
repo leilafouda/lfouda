@@ -4,7 +4,7 @@ headless: no
 active: yes
 weight: 20
 widget: experience
-subtitle: {{< icon name="download" pack="fas" >}} Download PDF {{< staticref "media/lfouda_cv.pdf" "newtab" >}}CV{{< /staticref >}} here
+subtitle:
 date_format: Jan 2006
 experience:
 - title: PhD Student
