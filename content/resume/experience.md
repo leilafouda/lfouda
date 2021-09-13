@@ -54,7 +54,7 @@ experience:
   location: 
   date_start: '2015-01-01'
   date_end: '2016-04-01'
-  description: "Grant recipient with Dr. Christine Erbe. Developed a bioacoustics and population-ecology study on Australian populations of killer whales (<a>Orcinus orca</a>). Coordinated and led research trips to the Bremer Canyon and Exmouth field sites. Leading the photo-identification and behavioural data collection. 	Data analysis, management and publication preparation utilising both MATLAB and Raven software.	Designed and formatted a photo-identification catalogue using FinBase. 	Supervised four Year 10 students conducting science projects on our data."
+  description: "Grant recipient with Dr. Christine Erbe. Developed a bioacoustics and population-ecology study on Australian populations of killer whales (<a>Orcinus orca</a>). Coordinated and led research trips to the Bremer Canyon and Exmouth field sites. Leading the photo-identification and behavioural data collection. Data analysis, management and publication preparation utilising both MATLAB and Raven software.	Designed and formatted a photo-identification catalogue using FinBase. Supervised four Year 10 students conducting science projects on our data."
 - title: Research Assistant
   company: Centre for Marine Science and Technology (CMST), Curtin University
   company_url: ''
@@ -62,7 +62,7 @@ experience:
   location: 
   date_start: '2013-10-01'
   date_end: '2013-11-01'
-  description: "Analysing underwater spectrograms to identify principal soundscape features.	Utilised noise logger deployment reports to further understand each soundscapes significant features.	This work fed into a broader study looking at  temporal and geographical variability in underwater soundscapes."
+  description: "Analysing underwater spectrograms to identify principal soundscape features. Utilised noise logger deployment reports to further understand each soundscapes significant features.	This work fed into a broader study looking at temporal and geographical variability in underwater soundscapes."
 - title: Research Assistant
   company: Behavioural Response of Australian Humpback whales to Seismic Surveys (BRAHSS). Joint Industry Partners (JIP)
   company_url: ''
@@ -78,7 +78,7 @@ experience:
   location: 
   date_start: '2013-04-01'
   date_end: '2013-09-01'
-  description: "Boat-based photo-ID photography, image quality and distinctiveness scoring, data management, and matching of a Pacific white-sided dolphin (<a>Lagenorhynchus obliquidens</a>) catalogue spanning 30-years.	Small vessel data collection for the development of a marine conservation toolkit. Including, multi-species marine mammal line transects utilising CyberTracker for data collection on encounters. Hydrophone deployment and recovery."
+  description: "Boat-based photo-ID photography, image quality and distinctiveness scoring, data management, and matching of a Pacific white-sided dolphin (<a>Lagenorhynchus obliquidens</a>) catalogue spanning 30-years. Small vessel data collection for the development of a marine conservation toolkit. Including, multi-species marine mammal line transects utilising CyberTracker for data collection on encounters. Hydrophone deployment and recovery."
 - title: Research Assistant
   company: Sperm Whale Research Project, Pinniped and Cetacean Ecology – New Zealand Research Partnership – University of Canterbury
   company_url: ''
@@ -86,7 +86,8 @@ experience:
   location: 
   date_start: '2010-04-01'
   date_end: '2010-07-01'
-  description: "Boat and land based surveying focusing on sperm whales (<a>Physeter macrocephalus</a>) in the Kaikoura Canyon.	Boat Based: Cetacean spotting; focal follows; directional and omni-directional hydrophone deployment; acoustic tracking; blow rate sampling photo-identification image capture and matching.	Land Based: Scanning for marine mammals; theodolite operation and individual focal follows; monitoring tourist vessel locations.""
+  description: "Boat and land based surveying focusing on sperm whales (<a>Physeter macrocephalus</a>) in the Kaikoura Canyon. Boat Based: Cetacean spotting; focal follows; directional and omni-directional hydrophone deployment; acoustic tracking; blow rate sampling photo-identification image capture and matching.	Land Based: Scanning for marine mammals; theodolite operation and individual focal follows; monitoring tourist vessel locations."
+- title: Intern
   company: Research Department, Pacific Whale Foundation
   company_url: ''
   #company_logo: org-x
