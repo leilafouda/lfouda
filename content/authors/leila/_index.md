@@ -31,8 +31,8 @@ social:
   icon_pack: fab
   label: Follow me on Twitter
   link: https://twitter.com/Leila_Lula
-- icon: graduation-cap
-  icon_pack: fas
+- icon: google-scholar
+  icon_pack: ai
   link: https://scholar.google.com.au/citations?user=_QyiGf4AAAAJ&hl=en
 # - icon: github
 #   icon_pack: fab
