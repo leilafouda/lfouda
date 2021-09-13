@@ -70,7 +70,7 @@ experience:
   location: 
   date_start: '2013-09-01'
   date_end: '2013-10-01'
-  description: "Long-term project looking at the effect of seismic surveys on humpback whales (<a>Megaptera novaeangliae</a>).	Marine mammal observer role scanning for humpback whales to facilitate small vessel focal follows.	During seismic trials ensure mitigations on animal and vessel distances were met by continuous monitoring.	Efficient communication lead monitoring operator across seismic trial period.	Proprietary programme set up, operations for scan surveys, data clean up and back up."
+  description: "Long-term project looking at the effect of seismic surveys on humpback whales (<a>Megaptera novaeangliae</a>). Marine mammal observer role scanning for humpback whales to facilitate small vessel focal follows.	During seismic trials ensure mitigations on animal and vessel distances were met by continuous monitoring. Efficient communication to lead monitoring operator across seismic trial period.	Proprietary programme set up, operations for scan surveys, data clean up and back up."
 - title: Research Assistant
   company: Oceans Initiative
   company_url: ''
@@ -93,7 +93,7 @@ experience:
   location: 
   date_start: '2009-08-01'
   date_end: '2009-10-01'
-  description: "Photo-identification of long-term humpback whales (*Megaptera novaeangliae*) catalogue.	Independently conducting snorkel reef surveys to investigate frequency of reef contact by general public and during eco-tours I ensured accurate cetacean logs were maintained during vessel encounters."
+  description: "Photo-identification of long-term humpback whales (<a>Megaptera novaeangliae</a>) catalogue.	Independently conducting snorkel reef surveys to investigate frequency of reef contact by general public and during eco-tours I ensured accurate cetacean logs were maintained during vessel encounters."
 - title: Intern
   company: Marine Research Internship Program – Society for Ecological and Coastal Research, University of Victoria Whale Lab
   company_url: ''
