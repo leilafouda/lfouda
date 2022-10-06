@@ -4,7 +4,7 @@ education:
   courses:
   - course: PhD in Marine Ecology
     institution: Queen Mary University of London
-    year: Present
+    year: 2022
   - course: MSc in Conservation Science
     institution: Imperial College London
     year: 2012
@@ -18,9 +18,9 @@ interests:
 - Animal Movement
 - Foraging Ecology
 organizations:
-- name: Queen Mary University of London
-  url: https://www.qmul.ac.uk/
-role: PhD Student (London NERC DTP)
+- name: Yale Center for Biodiversity and Global Change
+  url: https://bgc.yale.edu/
+role: Postdoctoral Associate
 social:
 - icon: envelope
   icon_pack: fas
