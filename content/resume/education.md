@@ -7,7 +7,7 @@ widget: experience
 subtitle:
 date_format: Jan 2006
 experience:
-- title: PhD Student
+- title: PhD
   company: Queen Mary University of London
   company_url: ''
   #company_logo: org-gc
