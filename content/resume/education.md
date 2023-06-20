@@ -13,7 +13,7 @@ experience:
   #company_logo: org-gc
   location: 
   date_start: '2017-09-25'
-  date_end: '2022-04-25'
+  date_end: '2021-12-21'
   description: "London NERC DTP Student. Investigating foraging ecology, movement ecology, and population dynamics of loggerhead sea turtles (<a>Caretta caretta</a>). <a>Thesis</a>: Evolutionary Ecology of Feeding Strategies in Loggerhead Sea Turtles (<a>Caretta caretta</a>) from Movement to Conservation"
 - title: MSc Conservation Science
   company: Imperial College London
