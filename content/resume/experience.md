@@ -15,14 +15,14 @@ experience:
   date_start: '2022-09-16'
   date_end: ''
   description: "I am a part of the Center for Biodiversity and Global Change at Yale University where I work as part of the Biodiversity Movement and Global Change group. My work focuses on understanding the drivers and impacts of animal movement on a changing planet. I utilise high-resolution global animal movement data to explore space use and changes over time. I hope to identify how conservation practices and projects aid in the protection of highly mobile and migratory species."
-- title: Research Assistant
+- title: Research Associate
   company: British Antarctic Survey
   company_url: ''
   #company_logo: org-gc
   location: 
   date_start: '2022-01-15'
   date_end: '2022-07-25'
-  description: "I worked with two teams at the British Antarctic Survey. The first team analysed acoustic recordings from South Georgia. The second team (Whales from Space) was reviewing VHR satellite images collected from the Antarctic peninsula. In the acoustic monitoring project, I identified underwater sound sources. The main focus is to monitor recovering populations of baleen whales in South Georgia. In the ‘Whales From Space’ project I classified features of interest and environmental conditions within each VHF image. The main focus is to examine humpback whale (<a>Megaptera novaeangliae</a>) presence and habitat use across the year."
+  description: "I worked with two teams at the British Antarctic Survey. The first team analysed acoustic recordings from South Georgia. The second team (Whales from Space) was reviewing VHR satellite images collected from the Antarctic peninsula. In the acoustic monitoring project, I identified underwater sound sources. The main focus is to monitor recovering populations of baleen whales in South Georgia. In the 'Whales From Space' project I classified features of interest and environmental conditions within each VHF image. The main focus is to examine humpback whale (<a>Megaptera novaeangliae</a>) presence and habitat use across the year."
 - title: Faculty Research Assistant
   company: The University of Maryland Center for Environmental Science (UMCES), Chesapeake Biological Laboratory (CBL)
   company_url: ''
