@@ -34,10 +34,10 @@ image:
   focal_point: ""
   preview_only: false
 projects: []
-publication: '*BioRxiv* (14)'
+publication: '*BioRxiv*'
 publication_short:  
 publication_types:
-- "2"
+- "3"
 publishDate: "2023-10-29T00:00:00Z"
 slides: 
 summary: 
