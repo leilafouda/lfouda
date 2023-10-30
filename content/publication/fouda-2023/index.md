@@ -15,7 +15,7 @@ authors:
 - Christophe Eizaguirre
 
 date: "2023-10-29T00:00:00Z"
-doi: "https://doi.org/10.1101/2023.10.27.563439"
+doi: "doi.org/10.1101/2023.10.27.563439"
 featured: true
 image:
   caption: 
@@ -31,7 +31,7 @@ slides:
 summary: 
 tags:
 - Source Themes
-title: Dolphins simplify their vocal calls in response to increased ambient noise
+title: Productive foraging sites enhance maternal health and impact offspring fitness in a capital breeding species
 url_code: ""
 url_dataset: ""
 url_pdf: https://doi.org/10.1101/2023.10.27.563439
