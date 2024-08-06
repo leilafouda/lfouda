@@ -7,14 +7,22 @@ widget: experience
 subtitle:
 date_format: Jan 2006
 experience:
+- title: Murphy Family Foundation Postdoctoral Fellow
+  company: University of New Brunswick
+  company_url: ''
+  #company_logo: org-gc
+  location: 
+  date_start: '2024-04-15'
+  date_end: ''
+  description: "I am the Murphy Family Foundation Postdoctoral Fellow in Ocean Conservation. I am researching how dynamic management practices protect the endangered North Atlantic Right Whales. I use data from real-time passive acoustic monitoring to examine detection probabilities and vessel behaviour in critical habitat."
 - title: Postdoctoral Associate
   company: Yale University
   company_url: ''
   #company_logo: org-gc
   location: 
   date_start: '2022-09-16'
-  date_end: ''
-  description: "I am a part of the Center for Biodiversity and Global Change at Yale University where I work as part of the Biodiversity Movement and Global Change group. My work focuses on understanding the drivers and impacts of animal movement on a changing planet. I utilise high-resolution global animal movement data to explore space use and changes over time. I hope to identify how conservation practices and projects aid in the protection of highly mobile and migratory species."
+  date_end: '2024-03-31'
+  description: "I was part of the Center for Biodiversity and Global Change at Yale University where I work as part of the Biodiversity Movement and Global Change group. My work focused on understanding the drivers and impacts of animal movement on a changing planet. I utilised high-resolution global animal movement data to explore space use and changes over time."
 - title: Research Associate
   company: British Antarctic Survey
   company_url: ''
