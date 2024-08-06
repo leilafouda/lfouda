@@ -18,9 +18,9 @@ interests:
 - Animal Movement
 - Foraging Ecology
 organizations:
-- name: Yale Center for Biodiversity and Global Change
-  url: https://bgc.yale.edu/
-role: Postdoctoral Associate
+- name: Conservation Oceanography and Marine Technology, University of New Brunswick
+  url: https://kimdavies5.wixsite.com/davieslab
+role: Murphy Family Foundation Postdoctoral Fellow 
 social:
 - icon: envelope
   icon_pack: fas
