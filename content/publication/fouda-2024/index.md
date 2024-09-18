@@ -15,7 +15,7 @@ authors:
 - Christophe Eizaguirre
 
 date: "2024-09-10T00:00:00Z"
-doi: "doi.org/10.1101/2023.10.27.563439"
+doi: "10.1101/2023.10.27.563439"
 featured: true
 image:
   caption: 
