@@ -59,7 +59,7 @@ image:
   focal_point: ""
   preview_only: false
 projects: []
-publication: '*BioRxiv*'*
+publication: '*BioRxiv*'
 publication_short:  
 publication_types:
 - "3"
