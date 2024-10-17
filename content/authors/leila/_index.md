@@ -1,5 +1,5 @@
 ---
-title: "Leila Fouda"
+title: "L Fouda"
 education:
   courses:
   - course: PhD in Marine Ecology
