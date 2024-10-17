@@ -22,7 +22,7 @@ image:
   focal_point: ""
   preview_only: false
 projects: []
-publication: Ecology and Evolution
+publication: '*Ecology and Evolution*'
 publication_short:  
 publication_types:
 - "2"
