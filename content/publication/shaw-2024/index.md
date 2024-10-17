@@ -1,19 +1,5 @@
 ---
-abstract: Who conducts biological research, where, and how the results are disseminated varies 
-among geographies and identities. Identifying and documenting these forms of bias by research 
-communities is a critical first step towards addressing them. We documented perceived and observed 
-biases in movement ecology. Movement ecology is a rapidly expanding sub-discipline of biology, which 
-is strongly underpinned by fieldwork and technology use. First, we surveyed attendees of an international 
-conference, and discussed the results at the conference (comparing uninformed vs informed perceived bias). 
-Although most researchers identified as bias-aware, only a subset of biases were discussed in conversation. 
-Next, by considering author affiliations from publications in the journal Movement Ecology, we found 
-among-country discrepancies between the country of the authors’ affiliation and study site location 
-related to national economics. At the within-country scale, we found that race-gender identities of 
-postgraduate biology researchers in the USA differed from national demographics. We discuss the role of 
-potential specific causes for the emergence of bias in the sub-discipline, e.g. parachute-science or 
-accessibility to fieldwork. Undertaking data-driven analysis of bias within research sub-disciplines 
-can help identify specific barriers and first steps towards the inclusion of a greater diversity of 
-participants in the scientific process.
+abstract: Who conducts biological research, where, and how the results are disseminated varies among geographies and identities. Identifying and documenting these forms of bias by research communities is a critical first step towards addressing them. We documented perceived and observed biases in movement ecology. Movement ecology is a rapidly expanding sub-discipline of biology, which is strongly underpinned by fieldwork and technology use. First, we surveyed attendees of an international conference, and discussed the results at the conference (comparing uninformed vs informed perceived bias). Although most researchers identified as bias-aware, only a subset of biases were discussed in conversation. Next, by considering author affiliations from publications in the journal Movement Ecology, we found among-country discrepancies between the country of the authors’ affiliation and study site location related to national economics. At the within-country scale, we found that race-gender identities of postgraduate biology researchers in the USA differed from national demographics. We discuss the role of potential specific causes for the emergence of bias in the sub-discipline, e.g. parachute-science or accessibility to fieldwork. Undertaking data-driven analysis of bias within research sub-disciplines can help identify specific barriers and first steps towards the inclusion of a greater diversity of participants in the scientific process.
 
 authors:
 - A.K. Shaw
