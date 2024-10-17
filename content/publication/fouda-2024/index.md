@@ -25,7 +25,7 @@ projects: []
 publication: Ecology and Evolution
 publication_short:  
 publication_types:
-- "3"
+- "2"
 publishDate: "2023-10-29T00:00:00Z"
 slides: 
 summary: 
