@@ -25,8 +25,8 @@ social:
 - icon: envelope
   icon_pack: fas
   link: /#contact
-- display:
-    header: yes
+- #display:
+    #header: yes
   #icon: twitter
   #icon_pack: fab
   #label: Follow me on Twitter
@@ -38,6 +38,9 @@ social:
   icon_pack: fab
   link: https://github.com/leilafouda
  #superuser: yes
+- icon: bluesky
+  icon_pack: fab
+  link: https://bsky.app/profile/leilafouda.bsky.social
 bio: I am an early career marine ecologist. My research interests lie in furthering our understanding and filling knowledge gaps on marine species and their relationship with the wider environment. I have a particular interest in understanding how the life history and fitness of individuals impact their movement choices, reproductive fitness and foraging behaviour. In addition to this, I am interested in the impact of anthropogenic drivers on animal movement and habitat choices.
 ---
 
