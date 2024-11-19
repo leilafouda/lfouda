@@ -25,8 +25,8 @@ social:
 - icon: envelope
   icon_pack: fas
   link: /#contact
-- #display:
-    #header: yes
+- display:
+    header: yes
   #icon: twitter
   #icon_pack: fab
   #label: Follow me on Twitter
