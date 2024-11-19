@@ -26,11 +26,11 @@ address:
   region: New Brunswick
   country: Canada
   country_code: CAN
-contact_links:
-  - icon: twitter
-    icon_pack: fab
-    name: Find me on Twitter
-    link: 'https://twitter.com/Leila_Fouda'
+#contact_links:
+  #- icon: twitter
+    #icon_pack: fab
+    #name: Find me on Twitter
+    #link: 'https://twitter.com/Leila_Fouda'
 
 # Site header
 
