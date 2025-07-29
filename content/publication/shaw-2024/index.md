@@ -1,5 +1,5 @@
 ---
-abstract: Who conducts biological research, where, and how the results are disseminated varies among geographies and identities. Identifying and documenting these forms of bias by research communities is a critical first step towards addressing them. We documented perceived and observed biases in movement ecology. Movement ecology is a rapidly expanding sub-discipline of biology, which is strongly underpinned by fieldwork and technology use. First, we surveyed attendees of an international conference, and discussed the results at the conference (comparing uninformed vs informed perceived bias). Although most researchers identified as bias-aware, only a subset of biases were discussed in conversation. Next, by considering author affiliations from publications in the journal Movement Ecology, we found among-country discrepancies between the country of the authors’ affiliation and study site location related to national economics. At the within-country scale, we found that race-gender identities of postgraduate biology researchers in the USA differed from national demographics. We discuss the role of potential specific causes for the emergence of bias in the sub-discipline, e.g. parachute-science or accessibility to fieldwork. Undertaking data-driven analysis of bias within research sub-disciplines can help identify specific barriers and first steps towards the inclusion of a greater diversity of participants in the scientific process.
+abstract: Who conducts biological research, where they do it and how results are disseminated vary among geographies and identities. Identifying and documenting these forms of bias by research communities is a critical step towards addressing them. We documented perceived and observed biases in movement ecology, a rapidly expanding sub-discipline of biology, which is strongly underpinned by fieldwork and technology use. We surveyed attendees before an international conference to assess a baseline within-discipline perceived bias (uninformed perceived bias). We analysed geographic patterns in Movement Ecology articles, finding discrepancies between the country of the authors’ affiliation and study site location, related to national economics. We analysed race-gender identities of USA biology researchers (the closest to our sub-discipline with data available), finding that they differed from national demographics. Finally, we discussed the quantitatively observed bias at the conference, to assess within-discipline perceived bias informed with observational data (informed perceived bias). Although the survey indicated most conference participants as bias-aware, conversations only covered a subset of biases. We discuss potential causes of bias (parachute-science, fieldwork accessibility), solutions and the need to evaluate mitigatory action effectiveness. Undertaking data-driven analysis of bias within sub-disciplines can help identify specific barriers and move towards the inclusion of a greater diversity of participants in the scientific process.
 
 authors:
 - A.K. Shaw
@@ -51,24 +51,24 @@ authors:
 - C.S. Teitelbaum
 - F. Cagnacci
 
-date: "2024-08-02T00:00:00Z"
-doi: "10.1101/2024.07.29.605602"
+date: "2025-07-02T00:00:00Z"
+doi: "10.1098/rspb.2025.0679"
 featured: false
 image:
   caption: 
   focal_point: ""
   preview_only: false
 projects: []
-publication: '*BioRxiv*'
+publication: '*Proceedings of the Royal Society B: Biological Sciences*'
 publication_short:  
 publication_types:
 - "3"
-publishDate: "2024-08-02T00:00:00Z"
+publishDate: "2024-08-23T00:00:00Z"
 slides: 
 summary: 
 tags:
 - Source Themes
-title: Perceived and observed biases within scientific communities - a case study in movement ecology
+title: Perceived and observed biases within scientific communities: a case study in movement ecology
 url_code: ""
 url_dataset: ""
 url_pdf: https://www.biorxiv.org/content/10.1101/2024.07.29.605602v1
