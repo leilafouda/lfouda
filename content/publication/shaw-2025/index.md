@@ -71,7 +71,7 @@ tags:
 title: Perceived and observed biases within scientific communities - a case study in movement ecology
 url_code: ""
 url_dataset: ""
-url_pdf: https://www.biorxiv.org/content/10.1101/2024.07.29.605602v1
+url_pdf: https://royalsocietypublishing.org/doi/10.1098/rspb.2025.0679
 url_poster: ""
 url_project: ""
 url_slides: ""
