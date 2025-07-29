@@ -53,7 +53,7 @@ authors:
 
 date: "2025-07-02T00:00:00Z"
 doi: "10.1098/rspb.2025.0679"
-featured: false
+featured: true
 image:
   caption: 
   focal_point: ""
@@ -62,7 +62,7 @@ projects: []
 publication: '*Proceedings of the Royal Society B: Biological Sciences*'
 publication_short:  
 publication_types:
-- "3"
+- "2"
 publishDate: "2024-08-23T00:00:00Z"
 slides: 
 summary: 
