@@ -25,5 +25,7 @@ I was a teaching instructor on a field course in **Ecology and Evolution** for Q
 
 I have also demonstrated on entry level undergraduate lab courses at QMUL inclduing **BIO111 Cell Biology** and **BMD2019 Techniques in Biomedical Sciences**. In these, I helped students develop basic laboratory techniques (e.g. pipetting, microscope use, scientific drawing) and provided constructive feedback on lab skills and assignments.
 
+I have taken the *Center for the Integration of Research Teaching and Learning’s* **Advancing Learning Through Evidence-Based Teaching** course as well as multiple *Yale Poorvu Center for Teaching and Learning* courses including **Fundamentals of Equitable Teaching**, **Gender in the Classroom**, and **Leading an Effective Discussion**.
+
 My desire is to teach the next generation of scientists to be confident, excited, and curious!
 
