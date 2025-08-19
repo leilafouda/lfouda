@@ -15,12 +15,15 @@ header:
   width: 25%
 ---
 
-My teaching philosophy...
+I have developed my teaching skills and philosophy over almost 20 years in academia including mentoring peers, teaching field courses, and supporting undergraduate research assistants. I have practiced teaching in formal and informal settings, which has strengthened my ability to communicate clearly and connect to a diverse array of people. My goal as an educator is to aid students in developing the skills needed to question the world around them, collect and analyse data, and synthesise their findings with knowledge gained across their courses.
 
-I have co-taught **BIOL4645 Biology and Conservation of Marine Mammals** at the University of New Brunswick Saint John in Winter 2025 and 2026. This is a comprehensive upper-level biology course looks at the life histories, behaviour, reproduction, and population dynamics of seals, whales, and other marine mammals. This course combines lectures with a semester-long stepping-stone research and writing project incorproating literature review, data analysis, peer review, and final academic paper style report. 
+I want students to come away from my classes with a passion for the scientific process, curiosity about the world they live in, and an eagerness to learn more.
 
-In the field I was a teaching instructor for a field course in **Ecology and Evolution** for Queen Mary University masters students from 2018-2020. In 2018 and 2019 I taught in person at field sites in Cabo Verde; my responsibilities included developing and delivering lectures, guiding small discussion groups, supervising student work, and leading logistical management. When the course shifted to a virtual format in 2020, I developed and delivered workshops on marine mammal whistle analysis, CV development, and career paths in environmental science in and out of academia.
+I have co-taught **BIOL4645 Biology and Conservation of Marine Mammals** at the University of New Brunswick Saint John in Winter 2025 and 2026. This is a comprehensive upper-level biology course which looks at the life histories, behaviour, reproduction, and population dynamics of all marine mammals with a focus on pinnipeds and cetaceans. This course combines lectures with a semester-long stepping-stone research and writing project incorproating literature review, data analysis, peer review, and final academic paper style report. 
 
-I have also demonstrated on undergraduate lab courses at Queen Mary University of London **BIO111 Cell Biology** and **BMD2019 Techniques in Biomedical Sciences**. In these entry level courses, I helped students develop basic laboratory techniques (e.g. pipetting, microscope use, scientific drawing) and provided constructive feedback on lab skills and assignments.
+I was a teaching instructor on a field course in **Ecology and Evolution** for Queen Mary University of London (QMUL) masters students from 2018-2020. For which I developed and delivered lectures, guided small discussion groups, supervised student work, and lead logistical management for remote fieldwork.
 
+I have also demonstrated on entry level undergraduate lab courses at QMUL inclduing **BIO111 Cell Biology** and **BMD2019 Techniques in Biomedical Sciences**. In these, I helped students develop basic laboratory techniques (e.g. pipetting, microscope use, scientific drawing) and provided constructive feedback on lab skills and assignments.
+
+My desire is to teach the next generation of scientists to be confident, excited, and curious!
 
