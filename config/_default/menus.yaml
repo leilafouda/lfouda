@@ -19,12 +19,15 @@ main:
    # - name: Posts
   #   url: '#post'
   #   weight: 60
+  - name: "Teaching"
+    url: "/teaching"
+    weight: 50
   - name: "Resume"
     url: "/resume"
-    weight: 50
+    weight: 60
   - name: Contact
     url: '#contact'
-    weight: 60
+    weight: 70
     
 
 # Link to a PDF of your resume/CV from the menu.
