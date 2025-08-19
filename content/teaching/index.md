@@ -11,7 +11,7 @@ comments: false  # Show comments?
 # Optional header image (relative to `assets/media/` folder).
 header:
   caption: ""
-  image: "BC_Ocean_Boat_2013_crop.jpeg"
+  image: "LFouda_Presenting_2025_Crop.jpeg"
   width: 25%
 ---
 
