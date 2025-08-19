@@ -12,7 +12,7 @@ comments: false  # Show comments?
 header:
   caption: ""
   image: "BC_Ocean_Boat_2013_crop.jpeg"
-  width: 25%
+  width: 20%
 ---
 
 My research interests lie in furthering our understanding and filling knowledge gaps on marine species and their relationship with the wider environment. I use multifarious technology including telemetry, genetic analysis, and stable isotopes to answer questions on species behaviour and range, population dynamics, feeding ecology, and habitat use. 
