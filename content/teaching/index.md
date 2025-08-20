@@ -27,5 +27,5 @@ I have also demonstrated on entry level undergraduate lab courses at QMUL incldu
 
 I have taken the *Center for the Integration of Research Teaching and Learning’s* **Advancing Learning Through Evidence-Based Teaching** course as well as multiple *Yale Poorvu Center for Teaching and Learning* courses including **Fundamentals of Equitable Teaching**, **Gender in the Classroom**, and **Leading an Effective Discussion**.
 
-         **My desire is to teach the next generation of scientists to be confident, excited, and curious!**
+### **My desire is to teach the next generation of scientists to be confident, excited, and curious!**
 
