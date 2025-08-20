@@ -25,7 +25,7 @@ Bioacoustic monitoring through passive acoustic monitoring (PAM) and animal-born
 
 While many marine mammals of interest vocalise frequently enough to enable mitigation and ecological studies what is necessary to understand as PAM is expanded and relied upon globally as a conseration tool is the probability of detection and missed detection under current monitoring regimes.
 
-{{< figure src="Monterey_WW_01.jpeg" caption="Humpback - Monterey &copy Leila Fouda " numbered="false" >}}
+{{< figure src="Monterey_WW_01.jpeg" caption="Humpback Whale - Monterey Bay &copy Leila Fouda " numbered="false" >}}
 
 ## Mechanisms constraining individual success in marine megafauna
 
