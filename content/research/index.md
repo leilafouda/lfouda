@@ -28,15 +28,14 @@ Understanding where animals are and why is key for both individual and populatio
 
 In a changing ocean it is crucial we understand the effectiveness of conservation action and threat mitigation measures. In the Gulf of St Lawrence there are many levels of management for the critically endangered North Atlantic right whale. By combining multiple technologies from acoustic gliders, vessel position data (AIS), whale movement patterns, and data on mandatory slowdown events I investigate the effectiveness of mitigation to reduce the threat of vessel strike.
 
-Bioacoustic monitoring through passive acoustic monitoring (PAM) and animal-borne biologging acoustic sensors has become a preverlent tool to allow constant near-realtime monitoring of our oceans. Platforms that collect data can be take the form of eulerian and lagrangian observations that can inform us of whale presence, movemnet, and behaviour. While many marine mammals of interest vocalise a  Whale acoustic detection probability under current glider flight plans in the Dynamic Zones
+Bioacoustic monitoring through passive acoustic monitoring (PAM) and animal-borne biologging acoustic sensors has become preverlent tools to allow constant near-realtime and archival monitoring of our oceans. Data collection with PAM and biologgers can be take the form of eulerian and lagrangian observations that can inform us of whale presence, movement, and behaviour. 
 
-The efficacy of current acoustic monitoring platform deployments for detections
-
+While many marine mammals of interest vocalise frequently enough to enable mitigation and ecological studies what is necessary to understand as PAM is expanded and relied upon globally as a conseration tool is the probability of detection and missed detection under current monitoring regimes.
 
 
 ## Mechanisms constraining individual success in marine megafauna
 
-Disentangling the complex life histories of marine species is challenging, but necessary to nderstanding how foraging regimes, habitat use, and the changing environment lead to animal fitness and individual success in terms of survival and reproduction. It is necessary for local and global conservation practices as climate change continues to drive environmental changes.
+Disentangling the complex life histories of marine species is challenging, but necessary to understanding how foraging regimes, habitat use, and the changing environment lead to animal fitness and individual success in terms of survival and reproduction. It is necessary for local and global conservation practices as climate change continues to drive environmental changes.
 
 In my work on *loggerhead sea turtles*, I determined how foraging choices, endogenous reserves, and variations in health indices impact individual reproductive fitness and ultimately offspring fitness. I established a **novel, minimally invasive** measure to examine changes in endogenous reserves.
 
