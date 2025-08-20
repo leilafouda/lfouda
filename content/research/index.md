@@ -23,7 +23,7 @@ In a changing ocean it is crucial we understand the effectiveness of conservatio
 
 Bioacoustic surveys through passive acoustic monitoring (PAM) and animal-borne biologging acoustic sensors has become preverlent tools to allow constant near-realtime and archival monitoring of our oceans. Data collection with PAM and biologgers can be deliver both eulerian and lagrangian observations that can inform us of marine animal presence, movement, and behaviour. 
 
-While many marine mammals of interest vocalise frequently enough when present to enable mitigation and ecological studies it can be context dependent. Thus it is necessary as PAM expands and is relied upon globally as a conservation tool to determine the probability of true detection and missed detection under current monitoring regimes and how we 
+While many marine mammals of interest vocalise frequently enough when present to enable mitigation and ecological studies it can be context dependent. Thus it is necessary as PAM expands and is relied upon globally as a conservation tool to determine the probability of true detection and missed detection under current monitoring regimes and how to explore how we can improve our surveys. 
 
 This work currently focuses on the Gulf of St Lawrence, Canada which has become a hotspot for the critically endangered North Atlantic right whale since 2015 with up to 40% of the population (~370 individuals) visiting the region from May through November. Across their range North Atlantic right whales are at risk of vessel strike and entanglement in fishing gear.
 
@@ -33,6 +33,6 @@ This work currently focuses on the Gulf of St Lawrence, Canada which has become 
 
 Disentangling the complex life histories of marine species is challenging, but necessary to understanding how foraging regimes, habitat use, and the changing environment lead to animal fitness and individual success in terms of survival and reproduction. It is necessary for local and global conservation practices as climate change continues to drive environmental changes.
 
-In my work on *loggerhead sea turtles*, I determined how foraging choices, endogenous reserves, and variations in health indices impact individual reproductive fitness and ultimately offspring fitness. I established a **novel, minimally invasive** measure to examine changes in endogenous reserves.
+In my work on loggerhead sea turtles, I determined how foraging choices, endogenous reserves, and variations in health indices impact individual reproductive fitness and ultimately offspring fitness. I established a **novel, minimally invasive** measure to examine changes in endogenous reserves.
 
 I have extensive and varied experiences in both field and laboratory-based skills and have worked at remote field sites while conducted surveys from vessels and land. I can think quickly and adapt as situations change. In the lab I am thorough and meticulous both in an established laboratory setting and at temporary field site set ups. Furthermore, I am committed to passing on my knowledge and skills to the next generation of scientists as well as promoting peer-to-peer learning.
