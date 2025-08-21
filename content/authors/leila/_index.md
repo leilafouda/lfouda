@@ -17,6 +17,7 @@ interests:
 - Marine Ecology
 - Animal Movement
 - Foraging Ecology
+- Bioacoustics
 organizations:
 - name: Conservation Oceanography and Marine Technology, University of New Brunswick
   url: https://kimdavies5.wixsite.com/davieslab
