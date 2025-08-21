@@ -15,7 +15,7 @@ header:
   width: 0.25%
 ---
 
-My work uses a combination of novel and established technologies and quantitative approaches to investigate the behaviour of marine species of conservation concern to help inform decisions that collectively impact individual and population fitness in increasingly anthropogenically-influenced ocean environments. I seek to determine and understand where and why marine animals conduct key life history behaviours in the context of anthropogenic and environmental influences. I use multifarious technology including telemetry, genetic analysis, and stable isotopes to answer questions on species behaviour and range, population dynamics, feeding ecology, and habitat use. 
+My work uses a combination of novel and established technologies and quantitative approaches to investigate the behaviour of marine species of conservation concern. The aim of my research is to help inform decisions that collectively impact individual and population fitness in increasingly anthropogenically-influenced ocean environments. I seek to determine and understand where and why marine animals conduct key life history behaviours in the context of anthropogenic and environmental influences. I use multifarious technology including telemetry, genetic analysis, and stable isotopes to answer questions on species behaviour and range, population dynamics, feeding ecology, and habitat use. 
 
 ## Investigating monitoring and management measures for endangered marine mammals
 
