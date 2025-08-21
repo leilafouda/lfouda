@@ -12,7 +12,7 @@ comments: false  # Show comments?
 header:
   caption: "North Atlantic right whale &copy Gina Lonati - University of New Brunswick"
   image: "GinalLonati_UNB_WhaleImage_Drone_Blow_02.JPG"
-  width: 10%
+  width: 5%
 ---
 
 My work uses a combination of novel and established technologies and quantitative approaches to investigate the behaviour of marine species of conservation concern to help inform decisions that collectively impact individual and population fitness in increasingly anthropogenically-influenced ocean environments. I seek to determine and understand where and why marine animals conduct key life history behaviours in the context of anthropogenic and environmental influences. I use multifarious technology including telemetry, genetic analysis, and stable isotopes to answer questions on species behaviour and range, population dynamics, feeding ecology, and habitat use. 
@@ -34,4 +34,6 @@ This work currently focuses on the Gulf of St Lawrence, Canada which has become 
 Disentangling the complex life histories of marine species is challenging, but necessary to understanding how foraging regimes, habitat use, and the changing environment lead to animal fitness and individual success in terms of survival and reproduction. It is necessary for local and global conservation practices as climate change continues to drive environmental changes.
 
 In my work on loggerhead sea turtles, I determined how foraging choices, endogenous reserves, and variations in health indices impact individual reproductive fitness and ultimately offspring fitness. I established a **novel, minimally invasive** measure to examine changes in endogenous reserves used by a migratory species over a breeding season.
+
+I also deployed GPS and tri-axial accelerometers tags on nesting female trutles to disentangle the complex movement patterns and diving behaviours of individuals with links to energy expenditure, individual health, and habitat use.
 
