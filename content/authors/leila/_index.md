@@ -44,11 +44,7 @@ social:
 bio: I am an early career marine ecologist. My research interests lie in furthering our understanding on marine species and their relationship with the wider environment using a multifaceted approach. I seek to determine the underpinnings of key life history behaviours in the context of anthropogenic and environmental influences to inform decisions that collectively impact marine conservation in increasingly anthropogenically-influenced environments. 
 
 ---
-I am an early career marine ecologist. My research interests lie in furthering our understanding and filling knowledge gaps on marine species and their relationship with the wider environment. 
-I have a particular interest in understanding how the life history and fitness of individuals impact their movement choices, reproductive fitness and foraging behaviour. 
-In addition to this, I am interested in the impact of anthropogenic drivers on animal movement and habitat choices.
 
-I am an early career marine ecologist. My research interests lie in furthering our understanding and filling knowledge gaps on marine species and their relationship with the wider environment. I have a particular interest in understanding how the life history and fitness of individuals impact their movement choices, reproductive fitness and foraging behaviour. In addition to this, I am interested in the impact of anthropogenic drivers on animal movement and habitat choices.
 
 {{< icon name="orcid" pack="ai" >}} Find my [orcid page here](https://orcid.org/0000-0002-0723-3697).
 
