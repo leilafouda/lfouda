@@ -11,7 +11,7 @@ comments: false  # Show comments?
 # Optional header image (relative to `assets/media/` folder).
 header:
   caption: "North Atlantic right whale &copy Gina Lonati - University of New Brunswick"
-  image: "GinalLonati_UNB_WhaleImage_Drone_Blow_02.JPG"
+  image: "GinalLonati_UNB_WhaleImage_Drone_Blow_02_crop.JPG"
   width: 0.25%
 ---
 
