@@ -27,7 +27,7 @@ While many marine mammals of interest vocalise frequently enough when present to
 
 This work currently focuses on the Gulf of St Lawrence, Canada which has become a hotspot for the critically endangered North Atlantic right whale since 2015 with up to 40% of the population (~370 individuals) visiting the region from May through November. Across their range North Atlantic right whales are at risk of vessel strike and entanglement in fishing gear.
 
-{{< figure src="Monterey_WW_01.jpeg" caption="Humpback Whale - Monterey Bay &copy Leila Fouda " numbered="false" >}}
+{{< figure src="GinalLonati_UNB_WhaleImage_Drone_SAG.JPG" caption="North Atlantic right whale surface active group. &copy Gina Lonati - University of New Brunswick" numbered="false" >}}
 
 ## Mechanisms constraining individual success in marine megafauna
 
